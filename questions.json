@@ -1,12 +1,64 @@
 [   {
-        "question": "",
+        "question": "In a normal eye the lens focuses the light on the retina. Where does the light focus in an eye with myopia and what lens would you use to correct it?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "In myopia, light focuses directly on the retina. No lens is needed for correction.",
+            "In myopia, light focuses in front of the retina. A concave lens corrects it.",
+            "In myopia, light focuses in front of the retina. A convex lens is used for correction.",
+            "In myopia, light focuses behind the retina. A convex lens is used for correction."
         ],
-        "answer": ""
+        "answer": "In myopia, light focuses in front of the retina. A concave lens corrects it."
+    },
+    {
+        "question": "Proprioception is mediated by proprioceptors located in muscle spindles, Golgi tendon organs and joints. What is the primary function of proprioceptors in the human body?",
+        "options": [
+            "To sense the position and movement of the body and its parts",
+            "To detect changes in temperature",
+            "To regulate the body's metabolic rate",
+            "They provide information about the body's internal physiological state"
+        ],
+        "answer": "To sense the position and movement of the body and its parts"
+    },
+    {
+        "question": "Which statements is true when it comes to heart arrhythmias:",
+        "options": [
+            "Ventricular fibrillation is not dangerous",
+            "Tachycardia in the atria are usually more dangerous than in the ventricles",
+            "Tachycardia in the ventricles can be extremely dangerous",
+            "In atrial fibrillation there is slow and regular atrial activation"
+        ],
+        "answer": "Tachycardia in the ventricles can be extremely dangerous"
+    },
+    {
+        "question": "The diagram presents a schematic representation of a cardiac action potential. The cardiac cycle is divided into: systole and diastole. In this particular illustration, which phase(s) (A,B,C) correspond to the systole?",
+        "options": [
+            "A",
+            "A+B",
+            "B",
+            "B+C"
+        ],
+        "answer": "A+B",
+        "image": "static/images/ap_heartcycle.png"
+    },
+    {
+        "question": "Training for maximal neural adaptation (recruitment and coordination of motor units). In training for maximal strength, training neural adaptation is a key component. How do we train for maximal neural adaptation? (RM - repetition maximum)",
+        "options": [
+            "Eccentric training",
+            "High intensity (close to 90% of 1RM), few repetitions per series",
+            "At least 15 repetitions/series",
+            "Low intensity (30-50% of 1RM), 10-12 reps per series"
+        ],
+        "answer": "High intensity (close to 90% of 1RM), few repetitions per series"
+    },
+    {
+        "question": "The P-wave in an ecg represents the atrial activation. What does the QRS-complex represent?",
+        "options": [
+            "Ventricular depolarization",
+            "Conduction through the AV-node, and atrial contraction",
+            "Ventricular repolarization",
+            "Atrial repolarization"
+        ],
+        "answer": "Ventricular depolarization",
+        "image": "static/images/qrs.png"
     },
     {
         "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel the blood velocity is 1 m/s, through the stenosis the velocity increases to 5m/s. What is the pressure gradient over the stenosis?",
