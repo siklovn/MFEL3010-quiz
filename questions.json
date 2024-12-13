@@ -1,4 +1,215 @@
-[
+[   {
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel the blood velocity is 1 m/s, through the stenosis the velocity increases to 5m/s. What is the pressure gradient over the stenosis?",
+        "options": [
+            "25 mmHg",
+            "100 mmHg",
+            "50 mmHg",
+            "5 mmHg"
+        ],
+        "answer": "100 mmHg"
+    },
+    {
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel, the cross sectional area is 1 cm2 and blood flow velocity is 1 m/s. Through the stenosis, the blood velocity increases to 5 m/s. What is the cross sectional area of the stenosis?",
+        "options": [
+            "0.25 cm2",
+            "0.2 cm2",
+            "0.5 cm2",
+            "5 cm2"
+        ],
+        "answer": "0.2 cm2"
+    },
+    {
+        "question": "A certain study has a study power of 80% and a significance level of 5%. What is the probability of a type 2 error?",
+        "options": [
+            "80%",
+            "5%",
+            "95%",
+            "20%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "Understanding the Number Needed to Treat (NNT) in Clinical Studies Recent reports are saying that influenza virus is on the rise in Trondheim this Christmas. Oseltamivir (Tamiflu) is an antiviral drug that sometimes is used in treatment against influenzae infections. In a study it was found that the Number Needed to Treat (NNT) with Oseltamivir (Tamiflu) to avoid hospitalization of otherwise healthy adults with Influenza infection, was 200. What does it mean that NNT was 200 in this context?",
+        "options": [
+            "200 people will be cured of influenza after taking Oseltamivir.",
+            "200 people need to be treated with Oseltamivir to prevent one additional hospitalization.",
+            "200 people will benefit from treatment after taking Oseltamivir.",
+            "200 people will be hospitalized after treatment with Oseltamivir"
+        ],
+        "answer": "200 people need to be treated with Oseltamivir to prevent one additional hospitalization."
+    },
+    {
+        "question": "Calculate the positive predictive value for the same diagnostic test as in the previous question:",
+        "options": [
+            "77%",
+            "87,5%",
+            "90%",
+            "95%"
+        ],
+        "answer": "87,5%",
+        "image": "static/images/ppv.png"
+    },
+    {
+        "question": "Calculate the specificity for this diagnostic test for disease X based on the information provided in this table:",
+        "options": [
+            "95%",
+            "87,5%",
+            "77%",
+            "90%"
+        ],
+        "answer": "95%",
+        "image": "static/images/specificity.png"
+    },
+    {
+        "question": "What do we mean by the negative predictive value of a test:",
+        "options": [
+            "The probability of being healthy, if the test shows the patient to be healthy",
+            "The probability of being ill if the test shows the patient to be ill",
+            "The probability of being healthy, despite the test showing the patient to be ill",
+            "The probability of being ill, despite the test showing the patient to be healthy"
+        ],
+        "answer": "The probability of being healthy, if the test shows the patient to be healthy"
+    },
+    {
+        "question": "What is a type II error?",
+        "options": [
+            "The power",
+            "Accepting a false result as true (false positive)",
+            "The confidence interval",
+            "Discarding a true result as false (false negative)"
+        ],
+        "answer": "Discarding a true result as false (false negative)"
+    },
+    {
+        "question": "We do a heart catheterization in the same patient, and measure a hemoglobin of 13.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 67 kg. What is her oxygen uptake during the procedure? (this is the same patient as in the previous question with CO =4,5L/min and EDV=220ml)",
+        "options": [
+            "3,0 ml/kg/min",
+            "8,9 ml/kg/min",
+            "3,8 ml/kg/min",
+            "12,7 ml/kg/min"
+        ],
+        "answer": "3,8 ml/kg/min"
+    },
+    {
+        "question": "The ejection fraction is used as a measure of ventricular function. A patient with heart failure has an end diastolic left ventricular volume of 220 ml. During rest, she has a normal cardiac output of 4.5 litres /min with a heart rate of 92 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "36%",
+            "49%",
+            "22%",
+            "32%"
+        ],
+        "answer": "22%"
+    },
+    {
+        "question": "An infant is admitted to the intensive care unit with myocarditis (inflammation of the myocardium) and heart failure. Ejection fraction (a measure of ventricular function) is 20%. Left ventricular end diastolic volume is 20 ml and his heart rate is 160 beats/min. Calculate his cardiac output (CO).",
+        "options": [
+            "800 ml/min",
+            "960 ml/min",
+            "640 ml/min",
+            "1280 ml/min"
+        ],
+        "answer": "640 ml/min"
+    },
+    {
+        "question": "A patient with heart failure has an end diastolic left ventricular volume of 200 ml, an ejection fraction of 25%. What would the resting heart rate have to be, to maintain a normal cardiac output of 4.5 l/min?",
+        "options": [
+            "177 beats/min",
+            "75 beats/min",
+            "50 beats/min",
+            "90 beats/min"
+        ],
+        "answer": "90 beats/min"
+    },
+    {
+        "question": "A patient has a resting cardiac output (CO) of 4.5 l/min. The heart rate is 70 beats per minute. What is the stroke volume?",
+        "options": [
+            "77 ml",
+            "45 ml",
+            "52 ml",
+            "64 ml"
+        ],
+        "answer": "64 ml"
+    },
+    {
+        "question": "What best describes a motor unit in the context of muscle contraction?",
+        "options": [
+            "A motor unit refers to a single muscle fiber and all the nerve cells connected to it",
+            "A motor unit refers to a single nerve cell and all the muscle fibers it innervates",
+            "A motor unit refers to a group of muscle fibers that contract independently of each other",
+            "A motor unit refers to a group of nerve cells that control a single muscle fiber"
+        ],
+        "answer": "A motor unit refers to a single nerve cell and all the muscle fibers it innervates"
+    },
+    {
+        "question": "Which part of the autonomous nervous system: increases visceral activity, relaxes blood vessels, increases blood flow to internal organs and reduces heart rate.",
+        "options": [
+            "Parasympathetic",
+            "Sympathetic",
+            "Autonomous motor neuron system",
+            "Somatic sensory neurons"
+        ],
+        "answer": "Sympathetic"
+    },
+    {
+        "question": "What is the main component of the plasma membrane (cell membrane)?",
+        "options": [
+            "Lipid monolayer",
+            "Phospholipid bilayer",
+            "Purely a protein layer",
+            "Equalize extracellular and intracellular concentration of Sodium and Potassium."
+        ],
+        "answer": "Phospholipid bilayer"
+    },
+    {
+        "question": "A patient presents with sudden one-sided paresis in the emergency room. A cerebral stroke is suspected. What is the most common cause of cerebral stroke??",
+        "options": [
+            "Vasospasm of cerebral artery",
+            "Blood clot - thrombosis or embolism",
+            "Fat embolism",
+            "Haemorrhaging (bleeding)"
+        ],
+        "answer": "Blood clot - thrombosis or embolism"
+    },
+    {
+        "question": "Multiple sclerosis (MS) is an autoimmune disease where immune cells can damage myelin sheaths in the nervous system. The damage of myelin sheaths causes....",
+        "options": [
+            "Decreased signal conduction",
+            "Loss of protection against infections",
+            "Increased signal conduction",
+            "Stronger action potential"
+        ],
+        "answer": "Decreased signal conduction"
+    },
+    {
+        "question": "The production of Adenosin triphosphate (ATP) is necessary for life. ATP is the primary energy carrier in the cell. Kreb's cycle is the basis of most of the energy production in a cell (aerobic respiration). Where does this process take place?",
+        "options": [
+            "The cytoplasm",
+            "Smooth endoplasmaic reticulum",
+            "The mitochondria",
+            "The nucleus"
+        ],
+        "answer": "The mitochondria"
+    },
+    {
+        "question": "The central dogma of molecular biology is a theory stating that genetic information flows only in one direction, from DNA, to RNA, to protein, or RNA directly to protein. The process of creating protein from mRNA is called.....",
+        "options": [
+            "Transcription",
+            "Translation",
+            "Replication",
+            "Reverse transcription."
+        ],
+        "answer": "Translation"
+    },
     {
         "question": "What is the function of the sodium-potassium pump?",
         "options": [
@@ -495,7 +706,7 @@
         "answer": "46%"
     },
     {
-        "question": "During exercise, he has the ability to increase the ejection fraction to 85%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?",
+        "question": "A certain (male) cross country skier has an end diastolic left ventricular volume of 250 ml. During exercise, he has the ability to increase the ejection fraction to 85%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?",
         "options": [
             "7 l/min",
             "16 l/min",
