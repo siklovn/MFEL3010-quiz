@@ -1115,7 +1115,8 @@
             "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
             "By selecting a certain frequency in the reflected signal (frequency gating)"
         ],
-        "answer": "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)"
+        "answer": "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
+        "image": "static/images/doppler-mode.png"
     },
     {
         "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. What is the mechanism?",
