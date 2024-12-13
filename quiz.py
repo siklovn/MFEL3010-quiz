@@ -20,8 +20,9 @@ def get_questions():
     selected_questions = random.sample(all_questions, num_questions)
     return jsonify(selected_questions)
 
-def open_browser():
-    webbrowser.open_new('http://127.0.0.1:5000')
+# For running locally
+# def open_browser():
+#     webbrowser.open_new('http://127.0.0.1:5000')
 
 if __name__ == '__main__':
     port = os.environ.get('PORT')
