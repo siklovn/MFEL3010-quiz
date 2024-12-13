@@ -1111,12 +1111,12 @@
     {
         "question": "A clinical study of a certain disease, comparing treatment A with treatment B, found a difference in mortality between treatment A and treatment B (A<B) with a significance of <1%. What does that mean?",
         "options": [
-            "That the mortality is reduced by \u2265 1% with treatment A compared to B",
+            "That the mortality is reduced by ≥ 1% with treatment A compared to B",
             "That the study strength was 99%",
-            "That this finding was almost certainly real (with a probability of \u2265 99%)",
-            "That this finding was almost certainly random (with a probability of \u2265 99%)"
+            "That this finding was almost certainly real (with a probability of ≥ 99%)",
+            "That this finding was almost certainly random (with a probability of ≥ 99%)"
         ],
-        "answer": "That this finding was almost certainly real (with a probability of \u2265 99%)"
+        "answer": "That this finding was almost certainly real (with a probability of ≥ 99%)"
     },
     {
         "question": "A certain clinical study shows treatment 1 to be better to reduce the mortality (number of deaths) than treatment 2 for a certain disease with a p value (significance) of 5%. What does this mean?",
