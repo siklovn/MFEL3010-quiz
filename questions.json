@@ -1056,7 +1056,7 @@
         "answer": "0.25 cm2"
     },
     {
-        "question": "And what is the systolic pressure drop over the stenosis?",
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel, the cross sectional area is 1 cm2, a blood velocity of 1 m/s and a systolic pressure of 120 mmHg. Through the stenosis, the blood velocity increases to 4 m/s. What is the systolic pressure drop over the stenosis?",
         "options": [
             "4 mmHg",
             "16 mmHg",
