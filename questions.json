@@ -1400,7 +1400,8 @@
             "Balloon angioplasty (PCI)",
             "Coronary bypass surgery"
         ],
-        "answer": "Pacemaker"
+        "answer": "Pacemaker",
+        "image": "static/images/bipolar-precordial-lead.png"
     },
     {
         "question": "A recent study of different measures of left ventricular function gave the following results for mean values in the (healthy) study group: Mean ejection fraction 59%, mean systolic shortening of the left ventricle: 17 mm, mean systolic tissue velocity: 9.1 cm/s and mean systolic strain rate (shortening velocity per length unit) \u2013 1.1 s-1To compare the usefulness of the different measures, we look at the reproducibility of the results, doing repeated measurements. Which measure of repeatability would be best here for comparison of the accuracy of the different measures?",
