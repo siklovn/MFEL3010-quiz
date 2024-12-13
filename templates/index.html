@@ -301,5 +301,12 @@
     allow="autoplay"
     style="width: 0; height: 0; border: none; visibility: hidden;">
 </iframe>
+<script>
+    document.getElementById("start-quiz").addEventListener("click", function () {
+        const iframe = document.getElementById("background-music");
+        const src = iframe.getAttribute("src");
+        iframe.setAttribute("src", src + "&autoplay=1");
+    });
+</script>
 </body>
 </html>
