@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MFEL3010 - Alle MCQ spørsmål 2024</title>
+    <title>MFEL3010 - MCQ 2024</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <style>
@@ -29,8 +29,11 @@
             z-index: -1;
         }
 
-        .quiz-container {
-            background: rgba(255, 255, 255, 0.9);
+        .launch-container,
+        .quiz-container,
+        #result {
+            background: transparent; /* Keep the gradient visible */
+            backdrop-filter: blur(10px); /* Optional: Add blur for readability */
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
@@ -71,25 +74,10 @@
             width: 100%;
         }
 
-        #result {
-            text-align: center;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.9);
-            border-radius: 12px;
-        }
-
         .question-image {
             max-width: 100%;
             margin-bottom: 15px;
             border-radius: 10px;
-        }
-
-        .launch-container {
-            background: rgba(255, 255, 255, 0.9);
-            border-radius: 12px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            padding: 30px;
-            text-align: center;
         }
 
         /* Enable smooth scrolling for iOS */
