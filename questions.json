@@ -345,7 +345,7 @@
         "answer": "39 l/min"
     },
     {
-        "question": "Maximum oxygen uptake (VO2max) is a measure of aerobic fitness. Oxygen uptake is related to cardiac output by the formula: VO2 = CO x O2 extraction. During maximal exercise, the oxygen extraction (= arteriovenous O2 difference) may be as high as 90% (i.e. arterial oxygen saturation of 100%, venous saturation of 10%). One gram of hemoglobin binds 1.4 ml O2. Given a body weight of 85 kg and hemoglobin of 15.4 g/dl, what is then his VO2max?",
+        "question": "A (male) cross country skier has a CO of 39 l/min. Maximum oxygen uptake (VO2max) is a measure of aerobic fitness. Oxygen uptake is related to cardiac output by the formula: VO2 = CO x O2 extraction. During maximal exercise, the oxygen extraction (= arteriovenous O2 difference) may be as high as 90% (i.e. arterial oxygen saturation of 100%, venous saturation of 10%). One gram of hemoglobin binds 1.4 ml O2. Given a body weight of 85 kg and hemoglobin of 15.4 g/dl, what is then his VO2max?",
         "options": [
             "99 ml/kg/min",
             "89 ml/kg/min",
