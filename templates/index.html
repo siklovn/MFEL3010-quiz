@@ -12,26 +12,30 @@
             background: linear-gradient(135deg, #a8dadc, #37627e);
             font-family: 'Roboto', sans-serif;
             position: relative;
-            overflow-x: hidden; /* Prevent horizontal scrolling */
         }
-    
-        .container {
-            min-height: 100vh; /* Ensure container adapts to viewport height */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            overflow-y: auto; /* Enable vertical scrolling on iPhone */
+
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('https://www.svgrepo.com/show/58842/ecg-lines.svg');
+            background-repeat: repeat;
+            background-size: 100px;
+            background-position: 0 0, 100px 100px, 100px 100px;
+            opacity: 0.05;
+            z-index: -1;
         }
-    
+
         .quiz-container {
             background: #fff;
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
-            width: 100%;
-            max-width: 800px; /* Prevent it from becoming too wide */
         }
-    
+
         .progress-bar-container {
             margin-top: 20px;
             height: 20px;
@@ -40,62 +44,70 @@
             overflow: hidden;
             display: flex;
         }
-    
+
         .progress-bar-segment {
             height: 100%;
         }
-    
+
         .progress-bar-segment.correct {
             background-color: #28a745;
         }
-    
+
         .progress-bar-segment.incorrect {
             background-color: #dc3545;
         }
-    
+
         .question {
             margin-bottom: 20px;
         }
-    
+
         .feedback {
             margin-top: 10px;
             font-weight: bold;
         }
-    
+
         .btn-next {
             margin-top: 20px;
             width: 100%;
         }
-    
+
         #result {
             text-align: center;
             padding: 20px;
             background: #f1f1f1;
             border-radius: 12px;
         }
-    
+
         .question-image {
             max-width: 100%;
             margin-bottom: 15px;
             border-radius: 10px;
         }
-    
+
         .launch-container {
             background: #fff;
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
             text-align: center;
-            width: 100%;
-            max-width: 800px; /* Prevent it from being too wide */
+        }
+
+        /* Enable smooth scrolling for iOS */
+        html, body {
+            height: 100%;
+            overflow: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .container {
+            overflow-y: auto;
         }
     </style>
-    
 </head>
 <body>
     <div class="container d-flex justify-content-center align-items-center min-vh-100" id="launch-page">
         <div class="launch-container col-md-8">
-            <h1 class="text-center mb-4">📝 MFEL3010 - Alle MCQ spørsmål 2024</h1>
+            <h1 class="text-center mb-4">🖋 MFEL3010 - Alle MCQ spørsmål 2024</h1>
             <p>This multiple choice quiz contains a random selection of 40 questions from a pool of 124 MCQ questions posted on Blackboard for MFEL3010 in 2024, as well as all questions from the 2023 exam. </p>
             <p><strong>Keyboard shortcuts:</strong> Select alternatives using the number keys, hit spacebar to go to the next question.</p>
             <button class="btn btn-primary mt-3" id="start-quiz">Start Quiz</button>
@@ -104,7 +116,7 @@
 
     <div class="container d-flex justify-content-center align-items-center min-vh-100 d-none" id="quiz-page">
         <div class="quiz-container col-md-8">
-            <h1 class="text-center mb-4">📝 MFEL3010 - Alle MCQ spørsmål 2024</h1>
+            <h1 class="text-center mb-4">🖋 MFEL3010 - Alle MCQ spørsmål 2024</h1>
             <div id="quiz-container">
                 <!-- Quiz question will be loaded here dynamically -->
             </div>
