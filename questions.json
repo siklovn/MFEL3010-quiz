@@ -365,7 +365,7 @@
         "answer": "20%"
     },
     {
-        "question": "We do a heart catheterization at rest, and measure a hemoglobin of 13.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 67 kg. What is her oxygen uptake during the procedure?",
+        "question": "A patient with heart failure has an end diastolic left ventricular volume of 250 ml. During rest, she has a normal cardiac output of 4.5 litres /min with a heart rate of 92 beats / min. We do a heart catheterization at rest, and measure a hemoglobin of 13.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 67 kg. What is her oxygen uptake during the procedure?",
         "options": [
             "3,5 ml/kg/min",
             "3,8 ml/kg/min",
