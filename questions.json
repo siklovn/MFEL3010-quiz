@@ -1,0 +1,1265 @@
+[
+    {
+        "question": "What is the function of the sodium-potassium pump?",
+        "options": [
+            "Levelling the membrane potential by transports of sodium and potassium from high to low concentration.",
+            "Building up the membrane potential, by active transport of Sodium and Potassium from low to high concentration.",
+            "Utilises the concentration gradient of sodium and potassium for synthesis of ATP.",
+            "Equalize extracellular and intracellular concentration of Sodium and Potassium."
+        ],
+        "answer": "Building up the membrane potential, by active transport of Sodium and Potassium from low to high concentration."
+    },
+    {
+        "question": "What is the function of the sodium-potassium pump?",
+        "options": [
+            "Transporting potassium and Sodium across the cell membrane from low to high concentration by utilizing the membrane potential",
+            "Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP",
+            "Transporting of sodium and potassium from high to low concentration by facilitated diffusion.",
+            "Equalize extracellular and intracellular concentration of Sodium and Potassium."
+        ],
+        "answer": "Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP"
+    },
+    {
+        "question": "What is the result of this process (sodium-potassium pump)?",
+        "options": [
+            "Utilizing the concentration gradient of sodium and potassium for synthesis of ATP.",
+            "The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential",
+            "As the concentration differences of potassium and sodium across the cell membrane are removed (equalized), the differences in protein anions will create a membrane potential.",
+            "As the intracellular concentrations of sodium and potassium becomes equal, the membrane potential is determined by the concentration of calcium."
+        ],
+        "answer": "The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential"
+    },
+    {
+        "question": "Krebs\u2019 cycle is a biochemical process that is the basis for most of the energy production. Where in the cell does this process take place?",
+        "options": [
+            "The cytoplasm",
+            "Smooth endoplasmatic reticulum",
+            "The Golgi apparatus",
+            "The mitochondria"
+        ],
+        "answer": "The mitochondria"
+    },
+    {
+        "question": "Anaerobic respiration is a process where glucose is metabolized to lactic acid, producing a small amount of ATP. Where in the cell does this process take place?",
+        "options": [
+            "The cytoplasm",
+            "Smooth endoplasmatic reticulum",
+            "The Golgi apparatus",
+            "The mitochondria"
+        ],
+        "answer": "The cytoplasm"
+    },
+    {
+        "question": "What does the cytoskeleton consist of?",
+        "options": [
+            "Phospholipids",
+            "Amino acids",
+            "Glycogen",
+            "Cholesterol"
+        ],
+        "answer": "Amino acids"
+    },
+    {
+        "question": "Each of our cells is like a tiny factory where thousands of chemical reactions take place every day in separate and specialized organelles, of which the ribosomes are one type. What is the major function of this particular organelle?",
+        "options": [
+            "Protein synthesis",
+            "Protein modification",
+            "Protein collection",
+            "Protein package"
+        ],
+        "answer": "Protein synthesis"
+    },
+    {
+        "question": "\u201cThe central dogma of molecular biology\u201d says something about the flow of genetic information in living organisms. - What is the direction of this flow?",
+        "options": [
+            "The flow is unidirectional; RNA \u2013 DNA \u2013 protein",
+            "The flow is reversible; RNA \u2013 DNA \u2013 protein",
+            "The flow is reversible; DNA \u2013 RNA \u2013 protein",
+            "The flow is unidirectional; DNA \u2013 RNA \u2013 protein"
+        ],
+        "answer": "The flow is unidirectional; DNA \u2013 RNA \u2013 protein"
+    },
+    {
+        "question": "The cell (division) cycle is the series of events in a cell between one cell division and the next, leading to its division and replication. The cycle consists of several distinct phases, where one of the phases is called S (synthesis) phase. - What is the most important event that happens in this phase of the cell cycle?",
+        "options": [
+            "DNA replication",
+            "Cytokinesis",
+            "Mitosis",
+            "DNA repair"
+        ],
+        "answer": "DNA replication"
+    },
+    {
+        "question": "The Polymerase chain reaction (PCR) is a method that:",
+        "options": [
+            "Uses restriction enzymes to split the DNA into smaller pieces",
+            "Amplifies small amounts of DNA into several thousand copies",
+            "Separates DNA fragments based on size",
+            "Visualise DNA fragments in a gel by a fluorescence dye"
+        ],
+        "answer": "Amplifies small amounts of DNA into several thousand copies"
+    },
+    {
+        "question": "The method called restriction fragment length polymorphism (RFLP) is used to:",
+        "options": [
+            "Increase the amount of DNA found in a small sample",
+            "Increase the amount of DNA found in a degraded samples",
+            "Break up the DNA-strand into smaller pieces to compare DNA from different sources",
+            "To sequence the DNA on a base to base manner"
+        ],
+        "answer": "Break up the DNA-strand into smaller pieces to compare DNA from different sources"
+    },
+    {
+        "question": "In a paternity case, there are four possible fathers (a, b, c and d). A DNA test is done, which of the four candidates is the most probable father?",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "d"
+        ],
+        "answer": "b",
+        "image": "static/images/paternity.png"
+    },
+    {
+        "question": "What makes the cell differentiation possible?",
+        "options": [
+            "The genes are different in different tissues.",
+            "Different translation mechanisms in different tissues",
+            "Different replication mechanisms in different tissues",
+            "Different genes are active in different tissues."
+        ],
+        "answer": "Different genes are active in different tissues."
+    },
+    {
+        "question": "The main part of the DNA in the cell is found in the nucleus. What other organelles do also contain DNA?",
+        "options": [
+            "The Golgi apparatus",
+            "The endoplasmic reticulum",
+            "The centrosomes",
+            "The mitochondria"
+        ],
+        "answer": "The mitochondria"
+    },
+    {
+        "question": "One of these factors is of central importance in the development of all cancer tumours.",
+        "options": [
+            "Changed cellular metabolism",
+            "Changed cellular glucose uptake",
+            "Accumulation of mutations",
+            "Accumulation of waste products"
+        ],
+        "answer": "Accumulation of mutations"
+    },
+    {
+        "question": "What is an oncogene?",
+        "options": [
+            "A gene that codes for enzymes that repair damaged DNA",
+            "A gene that regulates cell growth and death",
+            "A mutated growth regulator gene",
+            "A gene giving the cancer cells ability to break down connective tissue to facilitate metastasis."
+        ],
+        "answer": "A mutated growth regulator gene"
+    },
+    {
+        "question": "Proteins are large, complex molecules that are made continuously in every cell. Each of them is made up of many amino acids that must be joined together in the correct sequence in order to function properly. What instructs this sequence for a particular protein?",
+        "options": [
+            "The available tRNAs in the cell",
+            "The post-transcriptional modifications of mRNA",
+            "The DNA base sequence in the gene",
+            "The type of ribosomes produced in the nucleolus"
+        ],
+        "answer": "The DNA base sequence in the gene"
+    },
+    {
+        "question": "What do we call the process by which an initial immature cell develops specialized structures and functions?",
+        "options": [
+            "Cell differentiation",
+            "Gene expression",
+            "Cell organization",
+            "Gene transcription"
+        ],
+        "answer": "Cell differentiation"
+    },
+    {
+        "question": "Membrane proteins are important parts of the cell surface membrane. Which of these functions is a membrane protein function?",
+        "options": [
+            "Mechanical support of the cell surface, maintaining the cell shape.",
+            "Binding of oxygen for the cell metabolism",
+            "Binding of peptide hormones",
+            "Protein synthesis"
+        ],
+        "answer": "Binding of peptide hormones"
+    },
+    {
+        "question": "What is correct about an action potential?",
+        "options": [
+            "An action potential is triggered by an increase in calcium in the extracellular fluid",
+            "An action potential is triggered by an increase in calcium in the cytoplasm",
+            "An action potential is triggered by a partial depolarisation of the cell membrane.",
+            "An action potential is triggered by a patrial hyperpolarisation f the cell membrane"
+        ],
+        "answer": "An action potential is triggered by a partial depolarisation of the cell membrane."
+    },
+    {
+        "question": "How is genetic information transmitted in the cells?",
+        "options": [
+            "RNA \u2013 DNA \u2013 protein",
+            "RNA \u2013 protein \u2013 DNA",
+            "DNA \u2013 RNA \u2013 protein",
+            "DNA \u2013 protein \u2013 RNA"
+        ],
+        "answer": "DNA \u2013 RNA \u2013 protein"
+    },
+    {
+        "question": "Where is DNA located in the cell?",
+        "options": [
+            "Only in the cell nucleus",
+            "In the cell nucleus and the ribosomes",
+            "In the cell nucleus and the sarcoplasmic reticulum",
+            "In the cell nucleus and the mitochondria"
+        ],
+        "answer": "In the cell nucleus and the mitochondria"
+    },
+    {
+        "question": "What happens with the cardiac pumping during the PQ interval?",
+        "options": [
+            "The atria contracts and fills the ventricles.",
+            "The ventricles contract, in order to increase the pressure, without ejectiong blood",
+            "The ventricles eject blood into the aorta",
+            "The ventricles relax and draws blood passively from the atria"
+        ],
+        "answer": "The atria contracts and fills the ventricles."
+    },
+    {
+        "question": "When the mitral (bicuspid)valve closes, there is a click, a heart sound. When can this be heard in relation to the ECG?",
+        "options": [
+            "The P-wave",
+            "The Q wave",
+            "In the middle of the QT-interval",
+            "The T-wave"
+        ],
+        "answer": "The Q wave"
+    },
+    {
+        "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. What is the mechanism?",
+        "options": [
+            "The atria suddenly starts to beat in an uncoordinated manner",
+            "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
+            "The ventricles suddenly starts to beat in an uncoordinated manner",
+            "Nothing happens electrically, but the mechanic pumping stops abruptly"
+        ],
+        "answer": "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
+        "image": "static/images/coronary_care_unit.png"
+    },
+    {
+        "question": "ST-elevation is a sign of an acute myocardial infarction. Which of the areas marks maximal ST-elevation?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "C",
+        "image": "static/images/st-elevation.png"
+    },
+    {
+        "question": "The diagram shows a schematic picture of a cardiac action potential. Which of the phases corresponds to the T wave in the ECG?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "C",
+        "image": "static/images/cardiac_AP.png"
+    },
+    {
+        "question": "And which phase corresponds to the inflow of blood (filling of the ventricles)?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": "D",
+        "image": "static/images/cardiac_AP.png"
+    },
+    {
+        "question": "Maximum oxygen uptake is a measure of aerobic fitness. What limits the maximal oxygen uptake in healthy individuals?",
+        "options": [
+            "The maximal pumping capacity of the heart",
+            "The maximal ventilator capacity of the lungs",
+            "The maximal gas diffusion capacity of the alveoli",
+            "The anaerobic threshold of the muscles"
+        ],
+        "answer": "The maximal pumping capacity of the heart"
+    },
+    {
+        "question": "Endurance training increases the maximal oxygen uptake. What is the factor that is increased by training, and thus responsible for increased fitness?",
+        "options": [
+            "The Hemoglobin",
+            "The Arterial oxygen saturation (meaning more efficient oxygenation by the lungs)",
+            "The maximal heart rate",
+            "The maximal stroke volume"
+        ],
+        "answer": "The maximal stroke volume"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. An endurance athlete has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 5.5 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "66%",
+            "59%",
+            "52%",
+            "48%"
+        ],
+        "answer": "52%"
+    },
+    {
+        "question": "We do a heart catheterization at rest (cardiac output is the same as in 29), and measure a hemoglobin of 16.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 82 kg. What is his oxygen uptake during the procedure?",
+        "options": [
+            "3,5 ml/kg/min",
+            "4,6 ml/kg/min",
+            "10,8 ml/kg/min",
+            "15,5 ml/kg/min"
+        ],
+        "answer": "4,6 ml/kg/min"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. However, this has some limitations. Endurance training increases left ventricular volume and reduces heart rate. A certain (male) cross country skier has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 4.8 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "78%",
+            "58%",
+            "46%",
+            "32%"
+        ],
+        "answer": "46%"
+    },
+    {
+        "question": "During exercise, he has the ability to increase the ejection fraction to 85%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?",
+        "options": [
+            "7 l/min",
+            "16 l/min",
+            "32 l/min",
+            "39 l/min"
+        ],
+        "answer": "39 l/min"
+    },
+    {
+        "question": "Maximum oxygen uptake (VO2max) is a measure of aerobic fitness. Oxygen uptake is related to cardiac output by the formula: VO2 = CO x O2 extraction. During maximal exercise, the oxygen extraction (= arteriovenous O2 difference) may be as high as 90% (i.e. arterial oxygen saturation of 100%, venous saturation of 10%). One gram of hemoglobin binds 1.4 ml O2. Given a body weight of 85 kg and hemoglobin of 15.4 g/dl, what is then his VO2max?",
+        "options": [
+            "99 ml/kg/min",
+            "89 ml/kg/min",
+            "79 ml/kg/min",
+            "70 ml/kg/min"
+        ],
+        "answer": "89 ml/kg/min"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. A patient with heart failure has an end diastolic left ventricular volume of 250 ml. During rest, she has a normal cardiac output of 4.5 litres /min with a heart rate of 92 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "49%",
+            "36%",
+            "24%",
+            "20%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "We do a heart catheterization at rest, and measure a hemoglobin of 13.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 67 kg. What is her oxygen uptake during the procedure?",
+        "options": [
+            "3,5 ml/kg/min",
+            "3,8 ml/kg/min",
+            "8,9 ml/kg/min",
+            "12,7 ml/kg/min"
+        ],
+        "answer": "3,8 ml/kg/min"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. A patient has an end diastolic left ventricular volume of 250 ml. During a resting examination, she has a normal cardiac output of 4.5 litres /min with a heart rate of 90 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "80%",
+            "50%",
+            "25%",
+            "20%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "We do a heart catheterization at rest, and measure a hemoglobin of 10.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 65%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 58 kg. What is her oxygen uptake during the procedure?",
+        "options": [
+            "2,3 ml/kg/min",
+            "3,5 ml/kg/min",
+            "4,0 ml/kg/min",
+            "15,0 ml/kg/min"
+        ],
+        "answer": "4,0 ml/kg/min"
+    },
+    {
+        "question": "We do an oxygen uptake testing, and find that her maximal oxygen uptake is 15 ml/kg/min. During maximal effort, it can be assumed that her oxygenation is adequate (arterial saturation 100%), and extraction is 90% (mixed venous saturation 10%). What is her maximal cardiac output?",
+        "options": [
+            "5,0 l/min",
+            "6,6 l/min",
+            "8,7 l/min",
+            "13,2 l/min"
+        ],
+        "answer": "6,6 l/min"
+    },
+    {
+        "question": "Epidemiological studies shows that heart patients with an oxygen uptake of < 17 ml/kg/min has a 10 year mortality of about 50% (Survival of 50%). Heart patients with oxygen uptake of > 28 ml/kg min on the other hand, has a 10 year mortality of only 20% (survival of 80%). Interval training has been shown to be the most efficient way of increasing oxygen uptake, and increases the Oxygen uptake most. Studies at the NTNU have shown that high intensity interval training is feasible in all kinds of heart patients. In addition, it reduces risk factors most. Does that mean that interval training is the most efficient way of increasing survival in heart patients? (Only one answer is correct).",
+        "options": [
+            "Yes, interval training increases maximum oxygen uptake most, and thus increases survival the most",
+            "Yes, Interval training reduces risk factors the most, and thus reduces mortality risk (increases survival) the most.",
+            "No, even if risk factors and oxygen uptake improves, that is no proof of improved survival",
+            "No, hard training will increase risk of training related deaths, and thus increase mortality (reduce survival)."
+        ],
+        "answer": "No, even if risk factors and oxygen uptake improves, that is no proof of improved survival"
+    },
+    {
+        "question": "A patient has a resting cardiac output of 4.5 l/min. The heart rate is 60 beats per minute. What isthe stroke volume?",
+        "options": [
+            "75 ml",
+            "60 ml",
+            "50 ml",
+            "45 ml"
+        ],
+        "answer": "75 ml"
+    },
+    {
+        "question": "A patient has a resting cardiac output of 5 l/min. The heart rate is 65 beats per minute. What is the stroke volume?",
+        "options": [
+            "77 ml",
+            "65 ml",
+            "52 ml",
+            "47 ml"
+        ],
+        "answer": "77 ml"
+    },
+    {
+        "question": "Another patient has a left ventricular end diastolic volume of 150 ml, and a stroke volume of 60 ml. What is the ejection fraction?",
+        "options": [
+            "90%",
+            "60%",
+            "50%",
+            "40%"
+        ],
+        "answer": "40%"
+    },
+    {
+        "question": "Another patient has a left ventricular end diastolic volume of 150 ml, a cardiac output of 4.8 l/min and a heart rate of 80 beats per minute. What is the ejection fraction?",
+        "options": [
+            "90%",
+            "60%",
+            "50%",
+            "40%"
+        ],
+        "answer": "40%"
+    },
+    {
+        "question": "A patient with heart failure has an end diastolic left ventricular volume of 350 ml, an ejection fraction of 15%. What would the resting heart rate have to be, to maintain a normal cardiac output of 4.5 l/min?",
+        "options": [
+            "155",
+            "85",
+            "70",
+            "62"
+        ],
+        "answer": "85"
+    },
+    {
+        "question": "A patient with heart failure has an end diastolic left ventricular volume of 300 ml, an ejection fraction of 21%. What would the resting heart rate have to be, to maintain a normal cardiac output of 4.5 l/min?",
+        "options": [
+            "142",
+            "85",
+            "71",
+            "62"
+        ],
+        "answer": "71"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. A patient with heart failure has an end diastolic left ventricular volume of 250 ml. During rest, she has a normal cardiac output of 4.5 litres /min with a heart rate of 92 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "49%",
+            "36%",
+            "24%",
+            "20%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. However, this has some limitations. Endurance training increases left ventricular volume and reduces heart rate. A certain (male) cross country skier has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 4.8 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "78%",
+            "58%",
+            "46%",
+            "32%"
+        ],
+        "answer": "46%"
+    },
+    {
+        "question": "During exercise, he has the ability to increase the ejection fraction to 85%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?",
+        "options": [
+            "7 l/min",
+            "16 l/min",
+            "32 l/min",
+            "39 l/min"
+        ],
+        "answer": "39 l/min"
+    },
+    {
+        "question": "Another (male) endurance runner has an end diastolic left ventricular volume of 220 ml. During rest, he has a normal cardiac output of 4.7 litres /min with a heart rate of 45 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "89%",
+            "53%",
+            "47%",
+            "35%"
+        ],
+        "answer": "47%"
+    },
+    {
+        "question": "During exercise, this runner has the ability to increase the ejection fraction to 82%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 185 beats / min. What is his maximal cardiac output?",
+        "options": [
+            "7 l/min",
+            "16 l/min",
+            "33 l/min",
+            "39 l/min"
+        ],
+        "answer": "33 l/min"
+    },
+    {
+        "question": "The ejection fraction is used a measure of ventricular function. An endurance athlete has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 5.5 litres /min with a heart rate of 42 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "66%",
+            "59%",
+            "52%",
+            "48%"
+        ],
+        "answer": "52%"
+    },
+    {
+        "question": "Hypertension is a risk factor for stroke and heart infarction. What\u2019s the limit between high normal blood pressure (prehypertension) and manifest hypertension (stage 1)?",
+        "options": [
+            "120/80",
+            "140/90",
+            "160/100",
+            "180/110"
+        ],
+        "answer": "140/90"
+    },
+    {
+        "question": "The blood pressure is usually measured by inflating a cuff around the upper arm, and then reducing the pressure gradually. Which of the statements below are correct in relation to this procedure?",
+        "options": [
+            "When the systolic pressure equals the pressure in the cuff, the artery will just start to open.",
+            "When the systolic pressure equals the cuff pressure, the artery is open during the whole heart cycle",
+            "When the diastolic pressure equals the pressure in the cuff, the artery will just start to open.",
+            "When the cuff pressure is zero, the blood flow in the artery starts."
+        ],
+        "answer": "When the systolic pressure equals the pressure in the cuff, the artery will just start to open."
+    },
+    {
+        "question": "The blood pressure is among other things regulated by peripheral resistance. Which vessels are responsible for most of this resistance?",
+        "options": [
+            "Arteries",
+            "Arterioles",
+            "Capillaries",
+            "Venules"
+        ],
+        "answer": "Arterioles"
+    },
+    {
+        "question": "Arterial blood pressure is regulated by the relation between cardiac output and peripheral resistance. What is the main site for regulating the peripheral resistance?",
+        "options": [
+            "The aorta",
+            "The arterioles",
+            "The venules",
+            "The veins"
+        ],
+        "answer": "The arterioles"
+    },
+    {
+        "question": "A blood vessel has a narrowing in a short segment. What will always happen to the blood dynamics in this narrow segment? (Velocity: meters/sec, Flow: litres/min)",
+        "options": [
+            "The blood velocity increases",
+            "The blood velocity decreases",
+            "The blood flow increases",
+            "The blood flow decreases"
+        ],
+        "answer": "The blood velocity increases"
+    },
+    {
+        "question": "The aortic valve may be calcified and narrow due to disease. What happens to the blood dynamics through that valve during systole? (Remember: Velocity: meters/sec, Flow: litres/min)",
+        "options": [
+            "The blood velocity increases",
+            "The blood velocity decreases",
+            "The blood flow increases",
+            "The blood flow decreases"
+        ],
+        "answer": "The blood velocity increases"
+    },
+    {
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel, the cross sectional area is 1 cm2, a blood velocity of 1 m/s and a systolic pressure of 120 mmHg. Through the stenosis, the blood velocity increases to 4 m/s. What is the cross sectional area of the stenosis?",
+        "options": [
+            "4 cm2",
+            "0.5 cm2",
+            "0.25 cm2",
+            "0.0625 cm2"
+        ],
+        "answer": "0.25 cm2"
+    },
+    {
+        "question": "What is correct about excitation contraction coupling?",
+        "options": [
+            "The action potential causes inflow of Na+ intracellularly, which binds to contractile proteins",
+            "The action potential causes outflow of K+ extracellularly, which binds to membrane surface proteins",
+            "The action potential causes intracellular release of Ca++, which binds to contractile proteins",
+            "The action potential causes outflow of Mg++ extracellularly, which binds to membrane surface proteins"
+        ],
+        "answer": "The action potential causes intracellular release of Ca++, which binds to contractile proteins"
+    },
+    {
+        "question": "As muscle relaxes, the relaxation itself is an energy demanding process, meaning that a contracted muscle will not relax if the cell is depleted of energy. What is the energy demanding process in the cell responsible for relaxation?",
+        "options": [
+            "The active elongation of the cell, as the actin \u2013 myosin cross bridges turns the otherway, pushing action and myosin from each other.",
+            "The uncoupling of actin-myosin cross bridges",
+            "The restoration of the normal resting membrane potential.",
+            "The active removal of calcium from the cytoplasm"
+        ],
+        "answer": "The active removal of calcium from the cytoplasm"
+    },
+    {
+        "question": "In this chest X-ray image we see an abnormal shadow that looks like a tumor (arrows). A solid tumor and the heart have about the same X-ray density. What does it mean that we can see the contour of the heart through the tumor?",
+        "options": [
+            "The shadow must have a different density from the heart, and ergo, is not a tumor.",
+            "The possible tumor must lie outside the chest",
+            "The two structures must lie at different levels (front to back) in the chest",
+            "The shadow is an artifact"
+        ],
+        "answer": "The two structures must lie at different levels (front to back) in the chest",
+        "image": "static/images/x-ray-tumor.png"
+    },
+    {
+        "question": "What is the reason Technetium can be used for imaging of so many different organs?",
+        "options": [
+            "Because technetium is so reactive, it will react with molecules in most cells when injected",
+            "Because Technetium emits so many different wavelengths, depending on the tissue composition, making it possible to select the wavelengths from different tissues with adjustment of the gamma camera",
+            "Because technetium has different isotopes with affinity for different tissues",
+            "Because technetium is so reactive, it can be bound to many different chemical compounds that have affinity for different tissues"
+        ],
+        "answer": "Because technetium is so reactive, it can be bound to many different chemical compounds that have affinity for different tissues"
+    },
+    {
+        "question": "Conventional nuclear imaging uses technetium as the radiation source. What makes 99technetium so versatile in functional imaging of so many different organ systems?",
+        "options": [
+            "Because it is water soluble, and will permeate the water in all body parts",
+            "Because it is a small molecule that readily permeates all cell membranes, thus being present in all organs",
+            "Because it is highly reactive, and can be bound to many different chemical substances with different affinity to different cells.",
+            "Because it has a short half life (6 hours)"
+        ],
+        "answer": "Because it is highly reactive, and can be bound to many different chemical substances with different affinity to different cells."
+    },
+    {
+        "question": "What is the principle of PET (positron emission tomography) scan?",
+        "options": [
+            "Gamma rays are emitted directly by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.",
+            "Positrons are emitted by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.",
+            "Positrons are emitted by a radioisotope injected into the body, travels only a micro distance before being annihilated by collision with an electron. This produces two gamma photons in opposite directions that are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section.",
+            "Positive alpha particles are emitted directly by a radioisotope injected into the body, and are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section."
+        ],
+        "answer": "Positrons are emitted by a radioisotope injected into the body, travels only a micro distance before being annihilated by collision with an electron. This produces two gamma photons in opposite directions that are detected by a ring of detectors around the patient. The concentration of the isotope is mapped by the intensity of radiation in the cross section."
+    },
+    {
+        "question": "Electrons are the primary energy source in X-ray imaging, causing secondary electromagnetic radiation when they hot the anode. Pet scan also utilizes electromagnetic radiation (gamma rays) for imaging, but the primary energy source is a particle. Which?",
+        "options": [
+            "Proton",
+            "Electron",
+            "Neutron",
+            "Positron"
+        ],
+        "answer": "Positron"
+    },
+    {
+        "question": "Which hardware component in an MR system enables spatial encoding of the signal?",
+        "options": [
+            "The main superconducting magnet.",
+            "The radiofrequency antennas/coils.",
+            "The gradient coils.",
+            "The shimmy coils."
+        ],
+        "answer": "The gradient coils."
+    },
+    {
+        "question": "A child has been wounded by steel fragments from a cluster bomb. Which of these imaging methods should definitely not be used to locate the fragments in the body for safety reasons?",
+        "options": [
+            "Ultrasound",
+            "X-ray",
+            "MRI",
+            "Nuclear imaging"
+        ],
+        "answer": "MRI"
+    },
+    {
+        "question": "And which method would be best from a diagnostic point of view (for a wounded child with steel fragments?",
+        "options": [
+            "Ultrasound",
+            "X-ray",
+            "MRI",
+            "Nuclear imaging"
+        ],
+        "answer": "X-ray"
+    },
+    {
+        "question": "What is the origin of the signal in clinical magnetic resonance imaging?",
+        "options": [
+            "Iron ions.",
+            "Hydrogen nuclei (protons).",
+            "Water molecules.",
+            "Injected magnetic particles."
+        ],
+        "answer": "Hydrogen nuclei (protons)."
+    },
+    {
+        "question": "In an MR machine, energy input (RF pulse) results in net magnetization of the nuclei. The loss of this energy is called relaxation, and results in signal output that is used for imaging. What do we mean by T1-relaxation in MRI?",
+        "options": [
+            "The regrowth of longitudinal magnetization towards the thermal equilibrium value.",
+            "The loss in phase coherence after application of an rf-pulse.",
+            "The loss in transverse magnetization.",
+            "The loss of longitudinal magnetization when applying an rf-pulse."
+        ],
+        "answer": "The regrowth of longitudinal magnetization towards the thermal equilibrium value."
+    },
+    {
+        "question": "Why is T1 different from T2?",
+        "options": [
+            "The regrowth of longitudinal magnetization depends on the difference in energy states of the \u201cup\u201d and \u201cdown\u201d states.",
+            "The regrowth of longitudinal magnetization also depends on \u201cin-phasing\u201d of the magnetic longitudinal magnetic vectors.",
+            "The loss of transverse magnetization is due not only to regrowth of longitudinal magnetization, but also dephasing of the rotation of transverse magnetic vector.",
+            "The RF pulse is always applied in the transverse direction, resulting in an asymmetry between longitudinal and transverse magnetization."
+        ],
+        "answer": "The loss of transverse magnetization is due not only to regrowth of longitudinal magnetization, but also dephasing of the rotation of transverse magnetic vector."
+    },
+    {
+        "question": "Mean incidence of influenza in Norway in week 45 in 2009 was 14%. We may consider that the duration of influenza to be on the average 3 days. What was the mean prevalence of influenza during that week?",
+        "options": [
+            "2.25%",
+            "4.5%",
+            "6%",
+            "14%"
+        ],
+        "answer": "6%"
+    },
+    {
+        "question": "Mean incidence of influenza in Norway in week 8 in 2012 was 3%. We may consider that the duration of influenza to be on the average 5 days for that epidemic. What was the mean prevalence of influenza during that week?",
+        "options": [
+            "2.1%",
+            "3%",
+            "6%",
+            "14%"
+        ],
+        "answer": "2.1%"
+    },
+    {
+        "question": "Mean incidence of a virus epidemic in Trondheim in in a certain week was 6%. On the average 1.7% of the people were ill each day. What was the average duration of the disease?",
+        "options": [
+            "one day",
+            "two days",
+            "three days",
+            "Four days"
+        ],
+        "answer": "two days"
+    },
+    {
+        "question": "The prevalence of diabetes has increased over the last decades. What are possible explanations for this increase?",
+        "options": [
+            "More people get diabetes.",
+            "People who get diabetes live longer with the disease.",
+            "Both A and B.",
+            "Neither A nor B."
+        ],
+        "answer": "Both A and B."
+    },
+    {
+        "question": "What happens to the frequency of a disease if a new treatment prevents people from dying, but has no curative (= healing) effect?",
+        "options": [
+            "The prevalence of the disease will decrease (= go down)",
+            "The incidence of the disease will increase (= go up)",
+            "The prevalence of the disease will increase",
+            "The incidence of the disease will decrease"
+        ],
+        "answer": "The prevalence of the disease will increase"
+    },
+    {
+        "question": "In a case-control study of the association between an exposure and a disease;",
+        "options": [
+            "the controls should not be exposed",
+            "10% of the controls should be exposed",
+            "the controls should represent the distribution of the exposure in the population that the cases come from",
+            "the controls should be matched to the cases so that the exposure is similar between cases and controls"
+        ],
+        "answer": "the controls should represent the distribution of the exposure in the population that the cases come from"
+    },
+    {
+        "question": "How can confounding change the effect estimate (e.g. a relative risk) of a cohort study? The effect estimate",
+        "options": [
+            "can become either too large or too small",
+            "can only become too large",
+            "will not change",
+            "will not change if the study is large enough"
+        ],
+        "answer": "can become either too large or too small"
+    },
+    {
+        "question": "Compared to cohort studies, what is a major limitation of the case-control design in the study of a causal relation between a factor (= exposure) and a disease (= outcome)?",
+        "options": [
+            "case-control study is more expensive and takes longer time",
+            "There may be bias (= systematic error) in the measured presence or absence of the suspected factor (exposure)",
+            "There may be bias (= systematic error) in the measured presence or absence of the resulting outcome (disease)",
+            "It is difficult to identify (ascertain/skaffe) appropriate controls"
+        ],
+        "answer": "It is difficult to identify (ascertain/skaffe) appropriate controls"
+    },
+    {
+        "question": "The association between hypertension (high blood pressure) and stroke was examined in a cohort study. The study showed that the relative risk of stroke was 3 among people with hypertension, compared with people without hypertension. What is the correct interpretation of this result?",
+        "options": [
+            "People with hypertension had a 3 times higher probability of getting a stroke, compared with people without hypertension.",
+            "When people with hypertension got a stroke, they had a 3 times higher probability of dying from the disease, compared with people without hypertension.",
+            "The prevalence of stroke was 3 times higher among people with hypertension, compared with people without hypertension.",
+            "The brain area affected in stroke patients was on average 3 times larger in people with hypertension, compared with people without hypertension."
+        ],
+        "answer": "People with hypertension had a 3 times higher probability of getting a stroke, compared with people without hypertension."
+    },
+    {
+        "question": "A certain clinical study shows treatment 1 to be better to reduce the mortality (number of deaths) than treatment 2 for a certain disease with a p value (significance) of 10%. What does this mean?",
+        "options": [
+            "The probability of dying of the disease with treatment 1 is 10% lower than with treatment 2",
+            "The number needed to treat the disease with treatment 1 instead of treatment 2, in order to reduce the number of deaths by one patient, is 10",
+            "The difference may be real, with a probability of 90%",
+            "The difference may be real, but only with a probability of 10%"
+        ],
+        "answer": "The difference may be real, with a probability of 90%"
+    },
+    {
+        "question": "The results of the study above were a little disappointing, as we like the significance level of a clinical study to be below 5% for the result to be useful. So the study power was calculated, and was found to be only 70% for the patient number and desired significance level of 5%. What does that mean?",
+        "options": [
+            "That only 70% of the patients would profit from treatment 1 over treatment 2",
+            "That 70% of the patients would survive with treatment 1, as opposed to only 30% with treatment 2",
+            "That there was only 70% probability of achieving a p value of 5%, even if the difference was real",
+            "That there was only 30% probability that the difference was real"
+        ],
+        "answer": "That there was only 70% probability of achieving a p value of 5%, even if the difference was real"
+    },
+    {
+        "question": "A clinical study of a certain disease, comparing treatment A with treatment B, found a difference in mortality between treatment A and treatment B (A<B) with a significance of <1%. What does that mean?",
+        "options": [
+            "That the mortality is reduced by \u2265 1% with treatment A compared to B",
+            "That the study strength was 99%",
+            "That this finding was almost certainly real (with a probability of \u2265 99%)",
+            "That this finding was almost certainly random (with a probability of \u2265 99%)"
+        ],
+        "answer": "That this finding was almost certainly real (with a probability of \u2265 99%)"
+    },
+    {
+        "question": "A certain clinical study shows treatment 1 to be better to reduce the mortality (number of deaths) than treatment 2 for a certain disease with a p value (significance) of 5%. What does this mean?",
+        "options": [
+            "The probability of dying of the disease with treatment 1 is 5% lower than with treatment 2",
+            "The number needed to treat the disease with treatment 1 instead of treatment 2, in order to reduce the number of deaths by one patient, is 5",
+            "The difference may be real, with a probability of 95%",
+            "The difference may be real, but only with a probability of 5%"
+        ],
+        "answer": "The difference may be real, with a probability of 95%"
+    },
+    {
+        "question": "For a treatment result to be significant, what is the customary limit for the p value?",
+        "options": [
+            "2.5%",
+            "5%",
+            "10%",
+            "20%"
+        ],
+        "answer": "5%"
+    },
+    {
+        "question": "What is evidence based medical practice?",
+        "options": [
+            "Practice that is founded in solid physiological experiments as evidence",
+            "Practice that takes into account both clinical studies, medical background knowledge and patients experience and preferences",
+            "Practice that is only founded in clinical studies",
+            "Practice that is founded on large epidemiological studies"
+        ],
+        "answer": "Practice that takes into account both clinical studies, medical background knowledge and patients experience and preferences"
+    },
+    {
+        "question": "Study power is a measure of the probability of proving a given hypothesis by a clinical study. What is the study strength dependent on?",
+        "options": [
+            "Only study size",
+            "Only variability of the outcome variable",
+            "Only the desired significance level",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does it mean that a study is controlled?",
+        "options": [
+            "The study is under the regulations of the FDA (Food and Drug Agency) or similar regulating bodies",
+            "The study has a control group (for instance receiving no treatment or an established treatment)",
+            "The study is approved by the ethical committee",
+            "The study has a built in quality check system"
+        ],
+        "answer": "The study has a control group (for instance receiving no treatment or an established treatment)"
+    },
+    {
+        "question": "The significance (p value) of a controlled study result, is often given as a percentage, for instance 5%. What does this mean?",
+        "options": [
+            "The probability of the study result being true (non random) is 5%",
+            "The probability of the study result being wrong (random) is 5%",
+            "The study effect (difference in outcome between groups) is 5%",
+            "The study"
+        ],
+        "answer": "The probability of the study result being wrong (random) is 5%"
+    },
+    {
+        "question": "What is correct about excitation contraction coupling?",
+        "options": [
+            "The action potential causes inflow of Na+ intracellularly, which binds to tubulin",
+            "The action potential causes inflow of Na+ intracellularly, which binds to troponin",
+            "The action potential causes intracellular release of Ca++,which binds to tubulin",
+            "The action potential causes intracellular release of Ca++, which binds to troponin."
+        ],
+        "answer": "The action potential causes intracellular release of Ca++, which binds to troponin."
+    },
+    {
+        "question": "What is the function of the sodium-potassium pump?",
+        "options": [
+            "Transporting potassium and Sodium across the cell membrane from low to high concentration by utilizing the membrane potential",
+            "Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP",
+            "Transporting of sodium and potassium from high to low concentration by facilitated diffusion.",
+            "Equalize extracellular and intracellular concentration of Sodium and Potassium."
+        ],
+        "answer": "Transporting potassium and Sodium across the cell membrane from low to high concentration by use of energy in the form of ATP"
+    },
+    {
+        "question": "What is the result of this process (sodium-potassium pump)?",
+        "options": [
+            "Utilizing the concentration gradient of sodium and potassium for synthesis of ATP.",
+            "The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential",
+            "As the concentration differences of potassium and sodium across the cell membrane are removed (equalized), the differences in protein anions will create a membrane potential.",
+            "As the intracellular concentrations of sodium and potassium becomes equal, the membrane potential is determined by the concentration of calcium."
+        ],
+        "answer": "The concentration gradient of potassium lead to a diffusion of potassium that is not followed by anionic diffusion, and this builds up a membrane potential"
+    },
+    {
+        "question": "Where is the regulatory centre for respiration situated in the nervous system?",
+        "options": [
+            "The sympathetic ganglia",
+            "The brain stem",
+            "The cerebellum",
+            "The basal ganglia"
+        ],
+        "answer": "The brain stem"
+    },
+    {
+        "question": "Where in the central nervous system is pulse and blood pressure controlled?",
+        "options": [
+            "The cerebral cortex",
+            "The cerebellum",
+            "The brainstem",
+            "The spinal cord"
+        ],
+        "answer": "The brainstem"
+    },
+    {
+        "question": "What is the function of myelin sheaths around nerve axons?",
+        "options": [
+            "Nutrition",
+            "Mechanical support",
+            "Increasing signal conduction",
+            "Protection against infection"
+        ],
+        "answer": "Increasing signal conduction"
+    },
+    {
+        "question": "What are synapses?",
+        "options": [
+            "Synapses are support cells which works as the maintenance and immune cells of the nervous system",
+            "Synapses are specialized nerve cells, whose primary function is transmission of the fast signal activity throughout the nervous system",
+            "Synapses are places of contact between a nerve cell and another cell (nerve cells, muscle cells or glandular cells).",
+            "Synapses are extensions of support cells that establish intimate contact with nerve cell axons to facilitate impulse conduction."
+        ],
+        "answer": "Synapses are places of contact between a nerve cell and another cell (nerve cells, muscle cells or glandular cells)."
+    },
+    {
+        "question": "What is correct about an action potential?",
+        "options": [
+            "An action potential is triggered by an increase in calcium in the extracellular fluid",
+            "An action potential is triggered by an increase in calcium in the cytoplasm",
+            "An action potential is triggered by a partial depolarisation of the cell membrane.",
+            "An action potential is triggered by a patrial hyperpolarisation of the cell membrane"
+        ],
+        "answer": "An action potential is triggered by a partial depolarisation of the cell membrane."
+    },
+    {
+        "question": "In the situation called \u201cfight or flight response\u201d one part of the peripheral nervous system is activated even before action starts. Which?",
+        "options": [
+            "The parasympathetic system",
+            "The sympathetic system",
+            "The somatic motor neurons",
+            "The somatic sensory neurons"
+        ],
+        "answer": "The sympathetic system"
+    },
+    {
+        "question": "Ultrasound Doppler can measure blood velocity. We are interested in measuring the blood velocity at a certain depth. This is done by pulsed Doppler. How is the depth selectivity achieved?",
+        "options": [
+            "By varying the frequency in the transmitted signal",
+            "By varying the total energy (power) in the transmitted signal",
+            "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
+            "By selecting a certain frequency in the reflected signal (frequency gating)"
+        ],
+        "answer": "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)"
+    },
+    {
+        "question": "Which of these factors are important for the resolution in an ultrasound image?",
+        "options": [
+            "Only the focal depth",
+            "Only the frequency",
+            "Only the probe aperture size",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Diagnostic ultrasound used in the heart has a frequency around 2 MHz. What approximate wavelength does this frequency correspond to?",
+        "options": [
+            "0.17 mm",
+            "0.77 mm",
+            "7.7 mm",
+            "17 mm"
+        ],
+        "answer": "0.77 mm"
+    },
+    {
+        "question": "What are the main biological effects of diagnostic ultrasound?",
+        "options": [
+            "Chemical, due to ionization",
+            "Chemical, due to free radical formation",
+            "Thermal (i.e. tissue heating)",
+            "Cellular, due to mechanical cell disruption"
+        ],
+        "answer": "Thermal (i.e. tissue heating)"
+    },
+    {
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel, the cross sectional area is 1 cm2, a blood velocity of 1 m/s and a systolic pressure of 120 mmHg. Through the stenosis, the blood velocity increases to 4 m/s. What is the cross sectional area of the stenosis?",
+        "options": [
+            "4 cm2",
+            "0.5 cm2",
+            "0.25 cm2",
+            "0.0625 cm2"
+        ],
+        "answer": "0.25 cm2"
+    },
+    {
+        "question": "And what is the systolic pressure drop over the stenosis?",
+        "options": [
+            "4 mmHg",
+            "16 mmHg",
+            "32 mmHg",
+            "64 mmHg"
+        ],
+        "answer": "64 mmHg"
+    },
+    {
+        "question": "The picture shows an ultrasound picture of a heart where a single ultrasound beam is used to record an echo that is printed along a time axis, giving a diagram of the motion of structures in the heart. What is this ultrasound modality called?",
+        "options": [
+            "A-mode",
+            "B-mode",
+            "M-mode",
+            "Doppler mode"
+        ],
+        "answer": "M-mode",
+        "image": "static/images/m_mode.png"
+    },
+    {
+        "question": "What happens to ultrasound images when frequency increases?",
+        "options": [
+            "Depth penetration increases, resolution increases",
+            "Depth penetration increases, resolution decreases",
+            "Depth penetration decreases, resolution increases",
+            "Depth penetration decreases, resolution decreases"
+        ],
+        "answer": "Depth penetration decreases, resolution increases"
+    },
+    {
+        "question": "What happens to the frame rate (in 3D called volume rate), when going from 2D imaging to 3D imaging, provided we retain the same line density (resolution)?",
+        "options": [
+            "Frame rate increases to the double",
+            "Frame rate remains unchanged",
+            "Frame rate is halved",
+            "Frame rate decreases by an inverse square factor"
+        ],
+        "answer": "Frame rate decreases by an inverse square factor"
+    },
+    {
+        "question": "The picture shows an ultrasound picture of a heart where an ultrasound beam is used to record the velocity spectrum that is printed along a time axis, giving a diagram of blood velocities in a specific place of the heart. What is this ultrasound modality called?",
+        "options": [
+            "A-mode",
+            "B-mode",
+            "M-mode",
+            "Doppler mode"
+        ],
+        "answer": "Doppler mode",
+        "image": "static/images/doppler-mode.png"
+    },
+    {
+        "question": "In the image above, velocity traces are sampled from a specific depth along the ultrasound beam. How is the depth selectivity achieved?",
+        "options": [
+            "By varying the frequency in the transmitted signal",
+            "By varying the total energy in the transmitted signal",
+            "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
+            "By selecting a certain frequency in the reflected signal (frequency gating)"
+        ],
+        "answer": "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)"
+    },
+    {
+        "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. What is the mechanism?",
+        "options": [
+            "The atria suddenly starts to beat in an uncoordinated manner",
+            "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
+            "The ventricles suddenly starts to beat in an uncoordinated manner",
+            "Nothing happens electrically, but the mechanic pumping stops abruptly"
+        ],
+        "answer": "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
+        "image": "static/images/bipolar-precordial-lead.png"
+    },
+    {
+        "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. And how would you treat it?",
+        "options": [
+            "Electrical shock",
+            "Pacemaker",
+            "Balloon angioplasty (PCI)",
+            "Coronary bypass surgery"
+        ],
+        "answer": "Pacemaker"
+    },
+    {
+        "question": "A recent study of different measures of left ventricular function gave the following results for mean values in the (healthy) study group: Mean ejection fraction 59%, mean systolic shortening of the left ventricle: 17 mm, mean systolic tissue velocity: 9.1 cm/s and mean systolic strain rate (shortening velocity per length unit) \u2013 1.1 s-1To compare the usefulness of the different measures, we look at the reproducibility of the results, doing repeated measurements. Which measure of repeatability would be best here for comparison of the accuracy of the different measures?",
+        "options": [
+            "Limits of agreement",
+            "Correlation",
+            "Mean error",
+            "kappa coefficient"
+        ],
+        "answer": "Mean error"
+    },
+    {
+        "question": "Ejection fraction measured by ultrasound has a high variability. Limits of agreement are \u00b1 10% points. A patient who has had an infarct had an ejection fraction of 45% (slightly reduced) when he left the hospital. Two months later, he was admitted because of dyspnea, but had no new infarction. During the second stay, a new echocardiography was made, and they now found an EF of 38%. The diagnosis of worsening heart failure (HF) was made, and medical treatment for heart failure was started. The conclusion that the patient had worsening heart failure was:",
+        "options": [
+            "Correct because the EF was below 40%",
+            "Correct because the EF had dropped by 7% points",
+            "Incorrect because a change of 7% points is not a significant change with this method",
+            "Incorrect because an EF of 38% is not compatible with heart failure."
+        ],
+        "answer": "Incorrect because a change of 7% points is not a significant change with this method"
+    },
+    {
+        "question": "Ejection fraction measured by ultrasound has a high variability. Limits of agreement are \u00b1 10% points. A patient who has had an infarct had an ejection fraction of 48% (slightly reduced) when he left the hospital. Two months later, he was admitted because of dyspnea, but had no new infarction. During the second stay, a new echocardiography was made, and they now found an EF of 35%. The diagnosis of worsening heart failure (HF) was made, and medical treatment for heart failure was started. The conclusion that the patient had worsening heart failure was:",
+        "options": [
+            "Correct because the EF was below 40%",
+            "Correct because the EF had dropped by 13% points",
+            "Incorrect because a change of 13% points is not a significant change with this method",
+            "Incorrect because an EF of 35% is not compatible with heart failure."
+        ],
+        "answer": "Correct because the EF had dropped by 13% points"
+    },
+    {
+        "question": "What is the sensitivity of a certain diagnostic test?",
+        "options": [
+            "The probability of having a positive test if you are ill",
+            "The probability of having a negative test if you are healthy",
+            "The probability of being ill if you have a positive test",
+            "The probability of being healthy if you have a negative test"
+        ],
+        "answer": "The probability of having a positive test if you are ill"
+    },
+    {
+        "question": "What do we mean by the positive predictive value of a test:",
+        "options": [
+            "The probability of being ill if the test shows the patient to be ill",
+            "The probability of being healthy, if the test shows the patient to be healthy",
+            "The probability of being ill, despite the test showing the patient to be healthy",
+            "The probability of being healthy, despite the test showing the patient to be ill"
+        ],
+        "answer": "The probability of being ill if the test shows the patient to be ill"
+    },
+    {
+        "question": "A 50 year old man with no symptoms want a checkup to be sure he doesn\u2019t have coronaryheart disease, for safety\u2019s sake. He went to a private specialist centre in order to have a test, and have an exercise ECG. The risk of having significant coronary disease in men without symptoms at that age may be assumed to be 4%. Exercise ECG has a sensitivity of about 65%, and a specificity of 75%. This may be expressed in the following 4x4 table: If the test shows a positive result (meaning it indicates coronary disease), what is the positive predictive value of this test (the probability that he really is ill)?",
+        "options": [
+            "2,6%",
+            "10%",
+            "24%",
+            "26.6%"
+        ],
+        "answer": "10%",
+        "image": "static/images/4x4_table.png"
+    },
+    {
+        "question": "If the test shows a negative result (meaning it doesn\u2019t indicate coronary heart disease), what is the negative predictive value of the test (the probability that he really is healthy)?",
+        "options": [
+            "1.4%",
+            "72%",
+            "73.4%",
+            "98%"
+        ],
+        "answer": "98%",
+        "image": "static/images/4x4_table.png"
+    },
+    {
+        "question": "A 50 year old man with no symptoms want a checkup to be sure he doesn\u2019t have coronary heart disease, for safety\u2019s sake. He went to a private specialist centre in order to have a test, and had a stress echocardiography. The risk of having significant coronary disease in men without symptoms at that age may be assumed to be 4%. Stress echo has a sensitivity of about 80%, and a specificity of 90%. This may be expressed in the following 4x4 table: If the test shows a positive result (meaning it indicates coronary disease), what is the positive predictive value of this test (the probability that he really is ill)?",
+        "options": [
+            "3.3%",
+            "10.0 %",
+            "25.0 %",
+            "31.3%"
+        ],
+        "answer": "25.0 %",
+        "image": "static/images/4x4_table2.png"
+    },
+    {
+        "question": "If the test shows a negative result (meaning it doesn\u2019t indicate coronary heart disease), what is the negative predictive value of the test (the probability that he really is healthy)?",
+        "options": [
+            "99.0%",
+            "90.1%",
+            "90.0%",
+            "86.4%"
+        ],
+        "answer": "99.0%",
+        "image": "static/images/4x4_table2.png"
+    },
+    {
+        "question": "A man in his mid fifties go to a doctor to check if he has prostate cancer, and asks for a blood test (PSA) that marks the presence of this. He has a blood level of PSA of 10 ng/l, which means that it is elevated. With a cut of of 4 ng/l, the test has a sensitivity of 20% and a specificity of 90%. The prevalence of prostate cancer among men between 50 and 60 years can be taken as about 1 %. What is the probability that he has cancer (positive predictive value of the test)?",
+        "options": [
+            "2%",
+            "20%",
+            "50%",
+            "90%"
+        ],
+        "answer": "2%"
+    },
+    {
+        "question": "What is \u201cdownstream damage\u201d from a diagnostic screening program?",
+        "options": [
+            "Long term radiation damage from excessive X-ray use",
+            "As screening do not result in reduction of total mortality, the downstream damage is the statistical effect that the patients will have to die from something else",
+            "The fact that screening programs use resources that could have been used better for treatment of other patients, those patients suffer from downstream damage of lack of optimal treatment",
+            "The fact that screening results in over diagnosis \u2013 patients with harmless disease, but who will receive treatment, which will in some cases have side effects."
+        ],
+        "answer": "The fact that screening results in over diagnosis \u2013 patients with harmless disease, but who will receive treatment, which will in some cases have side effects."
+    },
+    {
+        "question": "The cut off limits between anemia and normal hemoglobin are usually set at 12 g/dl for women and 13 g/dl for men. The measurement of hemoglobin is variable, and has limits of agreement around 1.2 g/dl. A man sees his doctor for a routine checkup, and the doctor finds a hemoglobin of 13.5. He checks his records and at the last check up visit, the hemoglobin was 14.2. The doctor prescribes iron medication due to the drop in the value, in order to prevent development of anemia (dropping below 13g/dl). This decision is:",
+        "options": [
+            "Correct, as the drop in hemoglobin obviously shows iron deficiency or iron loss",
+            "Correct anyway, everybody should take iron supplements, as the normal food in any case contains too little iron.",
+            "Incorrect, because the value does not fulfill the definition of anemia",
+            "Incorrect, because the drop in hemoglobin is not significant."
+        ],
+        "answer": "Incorrect, because the drop in hemoglobin is not significant."
+    }
+]
