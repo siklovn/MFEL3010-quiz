@@ -2,7 +2,7 @@ from flask import Flask, render_template, jsonify
 import random
 import json
 import webbrowser
-import threading
+import os
 
 app = Flask(__name__)
 
@@ -24,5 +24,4 @@ def open_browser():
     webbrowser.open_new('http://127.0.0.1:5000')
 
 if __name__ == '__main__':
-    threading.Timer(0, open_browser).start()
-    app.run(debug=False)
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
