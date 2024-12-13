@@ -768,8 +768,8 @@
     {
         "question": "The prevalence of diabetes has increased over the last decades. What are possible explanations for this increase?",
         "options": [
-            "More people get diabetes.",
-            "People who get diabetes live longer with the disease.",
+            "A) More people get diabetes.",
+            "B) People who get diabetes live longer with the disease.",
             "Both A and B.",
             "Neither A nor B."
         ],
