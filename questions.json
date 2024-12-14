@@ -1,4 +1,261 @@
 [   {
+    "question": "DNA is packed into thread like structures called......",
+    "options": [
+        "Chromosomes",
+        "Ribosomes",
+        "Peroxisomes",
+        "Cytoplasm"
+    ],
+    "answer": "Chromosomes"
+    },
+    {
+        "question": "The production of Adenosin triphosphate (ATP) is necessary for life. ATP is the primary energy carrier in the cell. When inadequate oxygen is present, for example in a muscle cell undergoing vigorous contractions, glucose is metabolised to lactic acid producing small amounts of ATP. Where does this process take place and what is this process called?AT",
+        "options": [
+            "Mitochondria - aerobic respiration/metabolism",
+            "Mitochondria - anaerobic metabolism/respiration",
+            "Cytosol - anaerobic metabolism/respiration",
+            "Lysosomes - anaerobic metabolism/respiration"
+        ],
+        "answer": "Mitochondria - anaerobic metabolism/respiration"
+    },
+    {
+        "question": "Where in the brain is the motor cortex located?",
+        "options": [
+            "Frontal lobe",
+            "Parietal lobe",
+            "Temporal lobe",
+            "Occipital lobe"
+        ],
+        "answer": "Frontal lobe"
+    },
+    {
+        "question": "What is the primary function of the thalamus in the brain?",
+        "options": [
+            "Relaying sensory information to the cerebral cortex",
+            "Coordinating voluntary movements",
+            "Regulating heart rate",
+            "Producing cerebrospinal fluid"
+        ],
+        "answer": "Relaying sensory information to the cerebral cortex"
+    },
+    {
+        "question": "We have som phemonona that alter the quality of sensation. One of those phenomona is allodynia. What is it?",
+        "options": [
+            "A condition where pain is felt in response to normally non-painful stimul",
+            "A heightened sensitivity to light",
+            "Increased pain from a stimulus that usually provokes pain",
+            "A condition where you don't feel pain"
+        ],
+        "answer": "A condition where pain is felt in response to normally non-painful stimul"
+    },
+    {
+        "question": "A patient presents with heart failure symptoms and left ventriculare dysfunction. Left ventricular end diastolic volume is 150ml, and the patients stroke volume is 50ml. Ejection fraction (EF) is used to measure ventricular function. What is the left ventricular ejection fraction in this patient?",
+        "options": [
+            "50%",
+            "20%",
+            "33%",
+            "40%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "A patient with heart failure has an end diastolic left ventricular volume of 300 ml, an ejection fraction of 25%. What would the resting heart rate have to be, to maintain a normal cardiac output of 4.5 l/min?",
+        "options": [
+            "60 bpm",
+            "75 bpm",
+            "50 bpm",
+            " 90 bpm"
+        ],
+        "answer": "60 bpm"
+    },
+    {
+        "question": "Which part of the autonomous nervous system: increases visceral activity, relaxes blood vessels, increases blood flow to internal organs and reduces heart rate?",
+        "options": [
+            "Somatic sensory neurons",
+            "Parasymphathetic",
+            "Autonomous motor neuron system",
+            "Sympathetic"
+        ],
+        "answer": "Parasymphathetic"
+    },
+    {
+        "question": "How does a medical X-ray machine work?",
+        "options": [
+            "The X-ray machine relies on internal ionizing radiation from the human body and the use of isotopes.",
+            "The X-ray machine uses visible light to generate images of tissues and structures inside the body",
+            "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travls thorugh the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue.",
+            "The X-ray source and detector is placed in front of the patient. X-ray images are genereated based on the amount of reflected radiatation from the patient."
+        ],
+        "answer": "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travls thorugh the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue."
+
+    },
+    {
+        "question": "What does the term “prevalence” refer to in medical studies?",
+        "options": [
+            "The proportion of a population affected by a condition at a specific time",
+            "The rate at which a disease spreads in a population",
+            "The average duration of a disease in a population",
+            "The number of new cases in a specific population over a period of time"
+        ],
+        "answer": "The proportion of a population affected by a condition at a specific time"
+    },
+    {
+        "question": "If a study has 90% power for a significance level of 5%, what does that mean?",
+        "options": [
+            "There is a 5% chance of making a Type I error and a 90% chance of making a Type II error",
+            "There is a 90% chance of making a Type I error and a 5% chance of making a Type II error",
+            "There is a 5% chance of making a Type I error and a 10% chance of making a Type II error.",
+            "There is a 10% chance of making a Type I error and a 5% chance of making a Type II error"
+        ],
+        "answer": "There is a 5% chance of making a Type I error and a 10% chance of making a Type II error."
+    },
+    {
+        "question": "Which statement is true about viruses and replication?",
+        "options": [
+            "Viruses can replicate independently without a host cell",
+            "Viruses utilize their own ribosomes for protein synthesis",
+            "Viruses have both DNA and RNA as their genetic material",
+            "Viruses require a host cell to reproduce"
+        ],
+        "answer": "Viruses require a host cell to reproduce"
+    },
+    {
+        "question": "A blood vessel has a narrowing (stenosis) in a short segment. Doppler is used to measure blood flow velocity before- and through the stenosis. Before the stenosis, the blood velocity is 1/ms (peak systolic velocity). Through the stenosis, the blood velocity increases to 3 m/s (peak systolic velocity). What is the systolic pressure drop over the stenosis?",
+        "options": [
+            "4 mmHg",
+            "9 mmHg",
+            "36 mmHg",
+            "64 mmHg"
+        ],
+        "answer": "9 mmHg"
+    },
+    {
+        "question": "This ecg shows an extrasystole (red arrow). What kind of extrasystole is this?",
+        "options": [
+            "Ventricular extrasystole (VES) (Premature ventriccular contraction (PVC))",
+            "Supraventricular extra-systole (SVES)",
+            "Junctional extra systole",
+            "Extras systolic sinus beat"
+        ],
+        "answer": "Ventricular extrasystole (VES) (Premature ventriccular contraction (PVC))",
+        "image": "static/images/ventricular_extrasystole.png"
+    },
+    {
+        "question": "There are different degrees of atrioventricular (AV) block. From delay in atrioventricular conduction, to total block where no impulses are conducted through the AV node. What degree of block is presented in this ecg? This is 25mm/s ECG. Normal PR-interval is <200ms.",
+        "options": [
+            "This is first degree AV block",
+            "This is second degree AV block mobitz type II",
+            "This is third degree AV block - total block",
+            "This is left bundle branch block"
+        ],
+        "answer": "This is first degree AV block",
+        "image": "static/images/first_deg_AV_block.png"
+    },
+    {
+        "question": "The T wave in an ECG represents...",
+        "options": [
+            "Atrial repolarization",
+            "Ventricular depolarization",
+            "Ventricular repolarization",
+            "Atrial activation"
+        ],
+        "answer": "Ventricular repolarization",
+        "image": "static/images/t_wave.png"
+    },
+    {
+        "question": "A patient with retrosternal chest pain, cold sweat and nausea presents with the following ECG. What do you suspect this is?",
+        "options": [
+            "Transmural ischemia",
+            "Subendocardial ischemia",
+            "Complete heart block",
+            "Pericarditis"
+        ],
+        "answer": "Transmural ischemia"
+    },
+    {
+        "question": "You just finished your advanced CPR training. A man falls over, he is unresponisve and he is not breathing. You and 3 more bystanders start CPR. 30 compressions and 2 ventilations. A manual defibrillator and defibrillator pads are connected to the patient and the following rythm is seen on the ECG. It's a wide complex regular tachycardia! Is it a shockable rhythm?",
+        "options": [
+            "Yes. The patient has pulseless ventricular tachycardia. It is a shockable rhythm.",
+            "No this is pulseless electrical activity (PEA). No shock!",
+            "This is asystole, there is no need to use the defibrillator",
+            "This is wide complex tachycardia. We should spend a minute to try to palpate the pulse."
+        ],
+        "answer": "Yes. The patient has pulseless ventricular tachycardia. It is a shockable rhythm.",
+        "image": "static/images/pulseless_vent_tachycardia.png"
+    },
+    {
+        "question": "Why does VO2max decrease with age?",
+        "options": [
+            "HR max declines",
+            "Stroke volume increases with age",
+            "HR max increases",
+            "VO2max is constant through life"
+        ],
+        "answer": "HR max declines"
+    },
+    {
+        "question": "A company has created a new test for disease x. Based on the information in this table - calculate the sensitivity of the test.",
+        "options": [
+            "88%",
+            "97%",
+            "8%",
+            "92.5%"
+        ],
+        "answer": "88%",
+        "image": "static/images/calc_sensitivity.png"
+    },
+    {
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": "",
+        "image": "/static/images/us_b_mode.png"
+    },
+    {
+        "question": "This is a ultraound image of a heart. What is this ultrasound modality called?",
+        "options": [
+            "Motion mode (M-mode)",
+            "Brightness mode (B-mode) aka 2D",
+            "A-mode",
+            "Doppler mode"
+        ],
+        "answer": "Brightness mode (B-mode) aka 2D"
+    },
+    {
+        "question": "This picture shows a ultrasound picture where an ultrasound beam is used to record a velocity sepctrum from a specific place in the heart, the right ventricular outflow tract. Velocity traces are sampled from a specific depth along the ultrasound beam. What is this ultrasound modality called and how is the depth selectivity achieved?",
+        "options": [
+            "M-mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)",
+            "Doppler mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)",
+            "Doppler mode. By selecting a certain frequency in the reflected signal (frequency gating)",
+            "Doppler mode. By varying the frequency in the transmitted signal"
+        ],
+        "answer": "Doppler mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)"
+    },
+    {
+        "question": "What is the origin of the signal in clinical magnetic resonance imaging?",
+        "options": [
+            "Hydrogen nuclei (protons)",
+            "Water molecules",
+            "Injected magnetic particles",
+            "Iron ions"
+        ],
+        "answer": "Hydrogen nuclei (protons)"
+    },
+    {
+        "question": "Ultrasound is a safe imaging modality. What are the main bio-effects of ultrasound?",
+        "options": [
+            "Chemical bio-effects",
+            "Ionization",
+            "Increase in muscle tone",
+            "Thermal and mechanical effects"
+        ],
+        "answer": "Thermal and mechanical effects"
+    },
+    {
         "question": "In a normal eye the lens focuses the light on the retina. Where does the light focus in an eye with myopia and what lens would you use to correct it?",
         "options": [
             "In myopia, light focuses directly on the retina. No lens is needed for correction.",
@@ -578,7 +835,7 @@
         "answer": "52%"
     },
     {
-        "question": "We do a heart catheterization at rest (cardiac output is the same as in 29), and measure a hemoglobin of 16.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 82 kg. What is his oxygen uptake during the procedure?",
+        "question": "An endurance athlete has an end diastolic left ventricular volume of 250 ml. During rest, he has a normal cardiac output of 5.5 litres /min with a heart rate of 42 beats / min. Hence EF is 52%. We do a heart catheterization at rest (cardiac output is the same as in 29), and measure a hemoglobin of 16.5 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 82 kg. What is his oxygen uptake during the procedure?",
         "options": [
             "3,5 ml/kg/min",
             "4,6 ml/kg/min",
