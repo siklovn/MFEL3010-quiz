@@ -1229,7 +1229,7 @@
         "answer": "4,0 ml/kg/min"
     },
     {
-        "question": "Patient 58kg. We do an oxygen uptake testing, and find that her maximal oxygen uptake is 15 ml/kg/min. During maximal effort, it can be assumed that her oxygenation is adequate (arterial saturation 100%), and extraction is 90% (mixed venous saturation 10%). What is her maximal cardiac output?",
+        "question": "Patient 58kg, hemoglobin of 10.5 g/dl (from previous). We do an oxygen uptake testing, and find that her maximal oxygen uptake is 15 ml/kg/min. During maximal effort, it can be assumed that her oxygenation is adequate (arterial saturation 100%), and extraction is 90% (mixed venous saturation 10%). What is her maximal cardiac output?",
         "options": [
             "5,0 l/min",
             "6,6 l/min",
