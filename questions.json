@@ -405,7 +405,7 @@
         "options": [
             "The X-ray machine relies on internal ionizing radiation from the human body and the use of isotopes.",
             "The X-ray machine uses visible light to generate images of tissues and structures inside the body",
-            "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travls thorugh the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue.",
+            "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travels through the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue.",
             "The X-ray source and detector is placed in front of the patient. X-ray images are genereated based on the amount of reflected radiatation from the patient."
         ],
         "answer": "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travls thorugh the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue."
