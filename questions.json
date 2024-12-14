@@ -538,16 +538,6 @@
         "image": "/static/images/us_b_mode.png"
     },
     {
-        "question": "This is a ultraound image of a heart. What is this ultrasound modality called?",
-        "options": [
-            "Motion mode (M-mode)",
-            "Brightness mode (B-mode) aka 2D",
-            "A-mode",
-            "Doppler mode"
-        ],
-        "answer": "Brightness mode (B-mode) aka 2D"
-    },
-    {
         "question": "This picture shows a ultrasound picture where an ultrasound beam is used to record a velocity sepctrum from a specific place in the heart, the right ventricular outflow tract. Velocity traces are sampled from a specific depth along the ultrasound beam. What is this ultrasound modality called and how is the depth selectivity achieved?",
         "options": [
             "M-mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)",
