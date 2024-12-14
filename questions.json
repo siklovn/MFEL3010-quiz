@@ -555,7 +555,8 @@
             "Doppler mode. By selecting a certain frequency in the reflected signal (frequency gating)",
             "Doppler mode. By varying the frequency in the transmitted signal"
         ],
-        "answer": "Doppler mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)"
+        "answer": "Doppler mode. By selecting reflected signals at a certain time after the pulse is sent out (time gating)",
+        "image": "static/images/doppler-mode.png"
     },
     {
         "question": "What is the origin of the signal in clinical magnetic resonance imaging?",
