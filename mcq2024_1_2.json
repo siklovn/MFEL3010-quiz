@@ -10,6 +10,126 @@
         "answer": "Chromosomes"
     },
     {
+        "question": "In MR, we talk about T1 and T2 relaxation. What is T2 relaxation?",
+        "options": [
+            "Loss of transverse magnetisation vector",
+            "Regrowth of longitudinal magnetisation vector",
+            "Regrowth of transverse magnetisation vector",
+            "Loss of longitudinal magnetisation vector"
+        ],
+        "answer": "Loss of transverse magnetisation vector"
+    },
+    {
+        "question": "During exercise, a runner with end diastolic volume of 220 ml has the ability to increase the ejection fraction to 75%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 175 beats / min. What is his maximal cardiac output?",
+        "options": [
+            "60 l/min",
+            "29 l/min",
+            "13 l/min",
+            "42 l/min"
+        ],
+        "answer": "29 l/min"
+    },
+    {
+        "question": "What happens to the frequency of a disease if a new treatment prevents people from dying, but has no curative (= healing) effect?",
+        "options": [
+            "The prevalence of the disease will increase",
+            "The incidence of the disease will increase (= go up)",
+            "The incidence of the disease will decrease",
+            "The prevalence of the disease will decrease (= go down)"
+        ],
+        "answer": "The prevalence of the disease will increase"
+    },
+    {
+        "question": "The peak velocity of blood through the left ventricular outflow tract (before the aortic valve) is 1 m/s. Outflow tract diameter is 2,1 cm, and it is usually considered circular. Peak velocity through the aortic valve is 5.2 m/s. What is the pressure drop across the valve?",
+        "options": [
+            "21 mmHg",
+            "27 mmHg",
+            "54 mmHg",
+            "108 mmHg"
+        ],
+        "answer": "108 mmHg"
+    },
+    {
+        "question": "The peak velocity of blood through the left ventricular outflow tract (before the aortic valve) is 1 m/s. Outflow tract diameter is 2,1 cm, and it is usually considered circular. Peak velocity through the aortic valve is 5.2 m/s. For practical purposes, stroke volume and peak velocity x area can be considered proportional. What is the area of the stenotic valve?",
+        "options": [
+            "0.19 cm2",
+            "0.67 cm2",
+            "2.66 cm2",
+            "1.26 cm2"
+        ],
+        "answer": "0.67 cm2"
+    },
+    {
+        "question": "In cardiac ultrasound. the lateral resolution is more dependent on line density than on frequency. How could you increase the line density?",
+        "options": [
+            "By increasing the ultrasound pulse velocity",
+            "By decreasing the ultrasound pulse velocity",
+            "By reducing the frame rate",
+            "By increasing the frame rate"
+        ],
+        "answer": "By reducing the frame rate"
+    },
+    {
+        "question": "Doppler ultrasound is used to measure blood flow velocity, by measuring the frequency shift in the ultrasound reflected from the blod. At an transmission frequency of 1.5 MHz, assuming a sound velocity in tissue of 1540 m/s, the reflected ultrasound has a frequency shift of 2.5 KHz. What is the blood flow velocity (not taking any angle deviation into account)?",
+        "options": [
+            "2.5 m/s",
+            "2.6 m/s",
+            "1.3 m/s",
+            "0.65 m/s"
+        ],
+        "answer": "1.3 m/s"
+    },
+    {
+        "question": "Doppler measurement of velocity is subject to angle error. If the true velocity of 2.6 m/s is measured with an angle of 25 degrees between the velocity vector and the ultrasound beam, which velocity would the ultrasound Doppler actually measure?",
+        "options": [
+            "2.34 m/s",
+            "1.4 m/s",
+            "1.3 m/s",
+            "2.1 m/s"
+        ],
+        "answer": "2.34 m/s"
+    },
+    {
+        "question": "Many cancer screening programs have shown reduction in cancer specific number of deaths, yet no reduction in the over all number of deaths. Why might that be?",
+        "options": [
+            "Because reducing the number of cancer specific deaths will increase the number of deaths from other causes",
+            "Because the total number of deaths by far exceeds the number of cancer specific deaths. The difference between the groups is thus relatively smaller, making the studies underpowered for total deaths",
+            "Because the screening process itself diagnoses cancers that would progress so slowly as to cause no problems during the subject's expected lifetime",
+            "Because the screening process itself always carries an increased risk for complications"
+        ],
+        "answer": "Because the total number of deaths by far exceeds the number of cancer specific deaths. The difference between the groups is thus relatively smaller, making the studies underpowered for total deaths"
+    },
+    {
+        "question": "In a controlled study of medical therapy, what is the most efficient way to avoid bias between groups",
+        "options": [
+            "Selecting treatment and control groups from different geographical areas",
+            "Selecting treatment and control groups from different time periods",
+            "Randomisation to either treatment group or control group",
+            "Selecting cases for the treatment group and controls to be as similar as possible"
+        ],
+        "answer": "Randomisation to either treatment group or control group"
+    },
+    {
+        "question": "How are the radiation data along the z-axis (longitudinal axis) acquired in CT scanning?",
+        "options": [
+            "By varying the sensitivity of the radiation sensors along the z axis so only the sensors in a certain slice acquires the radiation at a certain time",
+            "By moving the patient along the equipment (along the z axis)",
+            "By varying the radiation intensity along the z axis so only the sensors in a certain slice acquires the radiation at a certain time",
+            "By varying the radiation wavelength along the z axis so only the sensors in a certain slice are responsive at a time"
+        ],
+        "answer": "By moving the patient along the equipment (along the z axis)"
+    },
+    {
+        "question": "",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": ""
+    },
+    {
         "question": "The production of Adenosin triphosphate (ATP) is necessary for life. ATP is the primary energy carrier in the cell. When inadequate oxygen is present, for example in a muscle cell undergoing vigorous contractions, glucose is metabolised to lactic acid producing small amounts of ATP. Where does this process take place and what is this process called?AT",
         "options": [
             "Mitochondria - aerobic respiration/metabolism",

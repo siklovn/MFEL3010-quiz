@@ -1,4 +1,326 @@
-[   {
+[   
+    {
+        "question": "In MR, we talk about T1 and T2 relaxation. What is T2 relaxation?",
+        "options": [
+            "Loss of transverse magnetisation vector",
+            "Regrowth of longitudinal magnetisation vector",
+            "Regrowth of transverse magnetisation vector",
+            "Loss of longitudinal magnetisation vector"
+        ],
+        "answer": "Loss of transverse magnetisation vector"
+    },
+    {
+        "question": "During exercise, a runner with end diastolic volume of 220 ml has the ability to increase the ejection fraction to 75%. End diastolic volume does not increase during exercise in the healthy. His maximal heart rate is 175 beats / min. What is his maximal cardiac output?",
+        "options": [
+            "60 l/min",
+            "29 l/min",
+            "13 l/min",
+            "42 l/min"
+        ],
+        "answer": "29 l/min"
+    },
+    {
+        "question": "What happens to the frequency of a disease if a new treatment prevents people from dying, but has no curative (= healing) effect?",
+        "options": [
+            "The prevalence of the disease will increase",
+            "The incidence of the disease will increase (= go up)",
+            "The incidence of the disease will decrease",
+            "The prevalence of the disease will decrease (= go down)"
+        ],
+        "answer": "The prevalence of the disease will increase"
+    },
+    {
+        "question": "The peak velocity of blood through the left ventricular outflow tract (before the aortic valve) is 1 m/s. Outflow tract diameter is 2,1 cm, and it is usually considered circular. Peak velocity through the aortic valve is 5.2 m/s. What is the pressure drop across the valve?",
+        "options": [
+            "21 mmHg",
+            "27 mmHg",
+            "54 mmHg",
+            "108 mmHg"
+        ],
+        "answer": "108 mmHg"
+    },
+    {
+        "question": "The peak velocity of blood through the left ventricular outflow tract (before the aortic valve) is 1 m/s. Outflow tract diameter is 2,1 cm, and it is usually considered circular. Peak velocity through the aortic valve is 5.2 m/s. For practical purposes, stroke volume and peak velocity x area can be considered proportional. What is the area of the stenotic valve?",
+        "options": [
+            "0.19 cm2",
+            "0.67 cm2",
+            "2.66 cm2",
+            "1.26 cm2"
+        ],
+        "answer": "0.67 cm2"
+    },
+    {
+        "question": "In cardiac ultrasound. the lateral resolution is more dependent on line density than on frequency. How could you increase the line density?",
+        "options": [
+            "By increasing the ultrasound pulse velocity",
+            "By decreasing the ultrasound pulse velocity",
+            "By reducing the frame rate",
+            "By increasing the frame rate"
+        ],
+        "answer": "By reducing the frame rate"
+    },
+    {
+        "question": "Doppler ultrasound is used to measure blood flow velocity, by measuring the frequency shift in the ultrasound reflected from the blod. At an transmission frequency of 1.5 MHz, assuming a sound velocity in tissue of 1540 m/s, the reflected ultrasound has a frequency shift of 2.5 KHz. What is the blood flow velocity (not taking any angle deviation into account)?",
+        "options": [
+            "2.5 m/s",
+            "2.6 m/s",
+            "1.3 m/s",
+            "0.65 m/s"
+        ],
+        "answer": "1.3 m/s"
+    },
+    {
+        "question": "Doppler measurement of velocity is subject to angle error. If the true velocity of 2.6 m/s is measured with an angle of 25 degrees between the velocity vector and the ultrasound beam, which velocity would the ultrasound Doppler actually measure?",
+        "options": [
+            "2.34 m/s",
+            "1.4 m/s",
+            "1.3 m/s",
+            "2.1 m/s"
+        ],
+        "answer": "2.34 m/s"
+    },
+    {
+        "question": "Many cancer screening programs have shown reduction in cancer specific number of deaths, yet no reduction in the over all number of deaths. Why might that be?",
+        "options": [
+            "Because reducing the number of cancer specific deaths will increase the number of deaths from other causes",
+            "Because the total number of deaths by far exceeds the number of cancer specific deaths. The difference between the groups is thus relatively smaller, making the studies underpowered for total deaths",
+            "Because the screening process itself diagnoses cancers that would progress so slowly as to cause no problems during the subject's expected lifetime",
+            "Because the screening process itself always carries an increased risk for complications"
+        ],
+        "answer": "Because the total number of deaths by far exceeds the number of cancer specific deaths. The difference between the groups is thus relatively smaller, making the studies underpowered for total deaths"
+    },
+    {
+        "question": "In a controlled study of medical therapy, what is the most efficient way to avoid bias between groups",
+        "options": [
+            "Selecting treatment and control groups from different geographical areas",
+            "Selecting treatment and control groups from different time periods",
+            "Randomisation to either treatment group or control group",
+            "Selecting cases for the treatment group and controls to be as similar as possible"
+        ],
+        "answer": "Randomisation to either treatment group or control group"
+    },
+    {
+        "question": "How are the radiation data along the z-axis (longitudinal axis) acquired in CT scanning?",
+        "options": [
+            "By varying the sensitivity of the radiation sensors along the z axis so only the sensors in a certain slice acquires the radiation at a certain time",
+            "By moving the patient along the equipment (along the z axis)",
+            "By varying the radiation intensity along the z axis so only the sensors in a certain slice acquires the radiation at a certain time",
+            "By varying the radiation wavelength along the z axis so only the sensors in a certain slice are responsive at a time"
+        ],
+        "answer": "By moving the patient along the equipment (along the z axis)"
+    },
+    {
+        "question": "Bundle branch block is a condition that affects impulse conduction in the heart. What happens to heart rate in bundle branch block?",
+        "options": [
+            "It remains unchanged",
+            "It maintains the same rate, but becomes irregular (fibrillation)",
+            "It increases (tachycardia)",
+            "It slows down (bradycardia)"
+        ],
+        "answer": "It remains unchanged"
+    },
+    {
+        "question": "The most specific SARS-CoV-2 test is a RNA PCR test. What is this?",
+        "options": [
+            "A test using the RNA to recreate the virus, which can then be identified by electron microscopy",
+            "A test multiplying the RNA, so the RNA sequence can be sequenced and identified",
+            "A test multiplying the RNA to see if the patient becomes immune, by analysing antibodies in the blood afterwards",
+            "A test using the RNA to recreate proteins from the virus, which can then be identified by antibodies"
+        ],
+        "answer": "A test multiplying the RNA, so the RNA sequence can be sequenced and identified"
+    },
+    {
+        "question": "What is the function of the grid cells in the entorhinal cortex discovered by Moser and Moser?",
+        "options": [
+            "Episodic memory",
+            "Spatial memory",
+            "Semantic memory",
+            "Procedural memory"
+        ],
+        "answer": "Spatial memory"
+    },
+    {
+        "question": "The Canadian Cardiovascular Society grading of angina pectoris: Grade I: Ordinary physical activity does not cause angina, such as walking and climbing stairs. Angina with strenuous or rapid or prolonged exertion at work or recreation Grade II: Slight limitation of ordinary activity. Walking or climbing stairs rapidly, walking uphill, walking or stair climbing after meals, or in cold, or in wind, or under emotional stress, or only during the few hours after awakening. Walking more than two blocks on the level and climbing more than one flight of ordinary stairs at a normal pace and in normal conditions Grade III: Marked limitation of ordinary physical activity. Walking one or two blocks on the level and climbing one flight of stairs in normal conditions and at normal pace Grade IV: Inability to carry on any physical activity without discomfort, anginal syndrome may be present at rest What kind of scale is the CCS scale?",
+        "options": [
+            "A quantitative, fully numerical scale",
+            "A quantitative, fully numerical scale, but without decimals",
+            "A non-numerical categorical scale",
+            "An ordinal rank scale"
+        ],
+        "answer": "A non-numerical categorical scale"
+    },
+    {
+        "question": "A doctor using the CCS scale will take the patients history in order to classify the severity of a patient's angina. In taking the history, different doctors will probably weight different symptoms differently, based on personal experience and values. For instance, which activity that is considered strenuous. This may lead to the same patient being placed in different classes by different doctors, and this again may influence the treatment advice the doctor offers. How would you evaluate the repeatability of the CCS scale by letting two different doctors classify 20 patients and comparing the classifications?",
+        "options": [
+            "Kappa coefficient",
+            "Limits of agreement",
+            "Mean error",
+            "Correlation"
+        ],
+        "answer": "Kappa coefficient"
+    },
+    {
+        "question": "Repeated measurements are essential to evaluate the performance of a diagnostic method. But what does the repeatability mainly tell us about?",
+        "options": [
+            "The specificity of the method",
+            "The validity of the method",
+            "The sensitivity of the method",
+            "The reliability of the method"
+        ],
+        "answer": "The reliability of the method"
+    },
+    {
+        "question": "What triggers an action potential?",
+        "options": [
+            "An increase in calcium in the cytoplasm",
+            "A partial hyperpolarisation of the cell mebrane",
+            "A partial depolarisation of the cell membrane",
+            "An increase in calcium in the extracellular fluid"
+        ],
+        "answer": "A partial depolarisation of the cell membrane"
+    },
+    {
+        "question": "What is the first that happens when an excitable cell starts an action potential?",
+        "options": [
+            "Opening of Cl- channels causing a concentration gradient driven outflux of Cl-",
+            "Opening of Na+ channels, causing a concentration gradient driven influx of Na+",
+            "Opening of K+ channels causing an electrical gradient driven outflux of K+",
+            "Opening of K+ channels, causing a concentration gradient driven influx of K+"
+        ],
+        "answer": "Opening of Na+ channels, causing a concentration gradient driven influx of Na+"
+    },
+    {
+        "question": "A man of seventy go to a doctor to check if he has prostate cancer, and asks for a blood test (PSA) that marks the presence of this. He has a blood level of PSA of 3 ng/l, which means that it is within normal range. With a cut of of 4 ng/l, the test has a sensitivity of 20% and a specificity of 90%. The prevalence of prostate cancer among men at 70 years can be taken as about 5 %, meaning he has a pretest probability of 95% of being healthy. What is the post test probability that he is healthy with this negative test result (negative predictive value)?",
+        "options": [
+            "99%",
+            "89.5%",
+            "85.5%",
+            "95.5%"
+        ],
+        "answer": "95.5%"
+    },
+    {
+        "question": "What is an isotonic muscle contraction?",
+        "options": [
+            "It is a contraction with no relaxation between stimulated twitches, resulting in maximal tension",
+            "It is a contraction where the muscle shortens in repetitive, separated twitches",
+            "It is a contraction where the muscle contracts, developing tension, but without shortening.",
+            "It is a contraction where the muscle contracts, shortening as tension equals load."
+        ],
+        "answer": "It is a contraction where the muscle contracts, shortening as tension equals load."
+    },
+    {
+        "question": "When an excitable cell starts an action potential, certain ion channels in the membrane opens, so ionic flux across the membrane is driven by a gradient. What kind of process is this?",
+        "options": [
+            "Facilitated diffusion",
+            "Filtration",
+            "Osmosis",
+            "Active transport"
+        ],
+        "answer": "Facilitated diffusion"
+    },
+    {
+        "question": "Both DNA and RNA are made up of organic bases, of which three are identical. Which base is part of DNA, but NOT of RNA?",
+        "options": [
+            "Cytosine",
+            "Adenine",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": "Thymine"
+    },
+    {
+        "question": "In a certain randomised medical study of risk reduction after heart infarction, the over all difference in mortality among infarct patients was not less with treatment with a certain betablocker, than with placebo (ineffective medicine). This was surprising, as other betablockers has been shown to reduce risk. The study was conducted in Australia and Scandinavia, and an interesting result emerged: The betablocker REDUCED the number of deaths in Scandinavia, compared with placebo, and INCREASED the number of deaths compared with placebo in Australia. The company tried to argue that the drug could be used for risk reduction in Scandinavia. Why is this recommendation wrong?",
+        "options": [
+            "The results could only become like this by cheating",
+            "The results were due to confounders between the two regions",
+            "The results were due to post hoc selection bias",
+            "The results clearly shows that study was underpowered"
+        ],
+        "answer": "The results were due to post hoc selection bias"
+    },
+    {
+        "question": "Repeated measurements of a single method tell us about the reproducibility of the measurements by a single method. MAPSE is a method for measuring, and monitoring left ventricular function. In a certain study, the limits of agreement of MAPSE was plus minus 1.6 mm. Following a patient after an infarct with a MAPSE at discharge from hospital of 9.5 mm. At a later control, MAPSE was found to be reduced. Which of the following values would count as a significant reduction in left ventricular function?",
+        "options": [
+            "< 9.0 mm",
+            "< 8.5 mm",
+            "< 8.0 mm",
+            "<7.8 mm"
+        ],
+        "answer": "<7.8 mm"
+    },
+    {
+        "question": "The risk of sudden death after an infarct varies with the size of the infarct, which is inversely related to the EF after the infarct. At an EF of 30%, this risk is close to 10%. Giving beta blockers reduces the relative risk of sudden death after an infarct by 25%. How many patients has to be given beta blockers in this group (EF < 30%), to prevent one case of sudden death per year?",
+        "options": [
+            "200",
+            "4",
+            "40",
+            "25"
+        ],
+        "answer": "40"
+    },
+    {
+        "question": "What is the anaerobic threshold in endurance sports?",
+        "options": [
+            "The effort intensity where the Krebs cycle is working at saturation, leaving only anaerobic metabolism for more energy production",
+            "The effort intensity where anaerobic metabolism generates lactate in excess",
+            "The effort intensity where all ATP is consumed so anaerobic metabolism takes over.",
+            "The same as VO2max"
+        ],
+        "answer": "The effort intensity where anaerobic metabolism generates lactate in excess"
+    },
+    {
+        "question": "What is a false positive diagnosis?",
+        "options": [
+            "Correct diagnosis of a disease, but the disease would have just as good prognosis without treatment",
+            "Harm from unnecessary treatment due to incorrect diagnosis",
+            "Incorrect diagnosis of a disease due to limited specificity of a test",
+            "Correct diagnosis of a disease, but at too late stage in the disease progression for treatment to be effective"
+        ],
+        "answer": "Incorrect diagnosis of a disease due to limited specificity of a test"
+    },
+    {
+        "question": "Which of the following descriptions of tRNA are correct?",
+        "options": [
+            "The tRNA has an anticodon that binds only to a specific codon in mRNA, that codes for a specific amino acid. The end of the tRNA binds to the specific amino acid of that codon. The sequences of codons on the mRNA will then determine the sequence of specific tRNA molecules that bind to the mRNA, and thus the sequence of amino acids in the finished protein molecule.",
+            "tRNA are constituents of Ribosomes, which are particles consisting of RNA and associated proteins that function to synthesize proteins. Ribosomes are the workplaces of protein biosynthesis, the process of translating mRNA into protein. The mRNA comprises a series of codons, which are decoded by the ribosome so as to make the protein. Using the mRNA as a template, the ribosome traverses all codons of the mRNA, pairing it with the appropriate amino acid.",
+            "tRNA is the RNA that carries information from DNA to the ribosome, the sites of protein synthesis (translation) in the cell. It is coded so that every three nucleotides (a codon) corresponds to one amino acid. The coding sequence of the tRNA determines the amino acid sequence in the protein that is produced.",
+            "tRNA is a long polymer made from repeating units. The information carried by tRNA is held in the sequence of pieces of tRNA called genes. When a cell uses the information in a gene, the rRNA sequence is copied into a complementary mRNA sequence through the attraction between the tRNA and the correct mRNA nucleotides."
+        ],
+        "answer": "The tRNA has an anticodon that binds only to a specific codon in mRNA, that codes for a specific amino acid. The end of the tRNA binds to the specific amino acid of that codon. The sequences of codons on the mRNA will then determine the sequence of specific tRNA molecules that bind to the mRNA, and thus the sequence of amino acids in the finished protein molecule."
+    },
+    {
+        "question": "When the the aortic valve may become leaky as a result of disease. During this leak, there will be an abnormal sound, a heart murmur. When can this be heard in relation to the ECG?",
+        "options": [
+            "Only during the PQ interval",
+            "Only during the QRS interval",
+            "Only during the T-Q interval",
+            "Only during the Q-T interval"
+        ],
+        "answer": "Only during the T-Q interval",
+        "image": "images/static/qrs.png"
+    },
+    {
+        "question": "It is customary to calculate the study power before starting a clinical study. What is study power in a randomised controlled study?",
+        "options": [
+            "The risk of accepting a result as significant, even if it's false.",
+            "The ability for a given study to detect a (real) effect with a given significance",
+            "The cost of a study in order to achieve a significant result",
+            "the cost of a study that doesn't achieve a significant result."
+        ],
+        "answer": "The ability for a given study to detect a (real) effect with a given significance"
+    },
+    {
+        "question": "Which part of the genome is inherited exclusively from the mother?",
+        "options": [
+            "X-chromosome DNA",
+            "Mitochondrial DNA",
+            "Y-chromosome DNA",
+            "Nuclear DNA"
+        ],
+        "answer": "Mitochondrial DNA"
+    },
+    {
     "question": "DNA is packed into thread like structures called......",
     "options": [
         "Chromosomes",
@@ -205,12 +527,12 @@
         "image": "static/images/calc_sensitivity.png"
     },
     {
-        "question": "",
+        "question": "This is a ultraound image of a heart. What is this ultrasound modality called?",
         "options": [
-            "",
-            "",
-            "",
-            ""
+            "Motion-mode (M-mode)",
+            "Brightness mode(B-mode) aka 2-D",
+            "A-mode",
+            "Doppler mode"
         ],
         "answer": "",
         "image": "/static/images/us_b_mode.png"
@@ -915,7 +1237,7 @@
         "answer": "4,0 ml/kg/min"
     },
     {
-        "question": "We do an oxygen uptake testing, and find that her maximal oxygen uptake is 15 ml/kg/min. During maximal effort, it can be assumed that her oxygenation is adequate (arterial saturation 100%), and extraction is 90% (mixed venous saturation 10%). What is her maximal cardiac output?",
+        "question": "Patient 58kg. We do an oxygen uptake testing, and find that her maximal oxygen uptake is 15 ml/kg/min. During maximal effort, it can be assumed that her oxygenation is adequate (arterial saturation 100%), and extraction is 90% (mixed venous saturation 10%). What is her maximal cardiac output?",
         "options": [
             "5,0 l/min",
             "6,6 l/min",
