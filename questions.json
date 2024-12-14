@@ -492,7 +492,8 @@
             "Complete heart block",
             "Pericarditis"
         ],
-        "answer": "Transmural ischemia"
+        "answer": "Transmural ischemia",
+        "image": "static/images/retrosternal.png"
     },
     {
         "question": "You just finished your advanced CPR training. A man falls over, he is unresponisve and he is not breathing. You and 3 more bystanders start CPR. 30 compressions and 2 ventilations. A manual defibrillator and defibrillator pads are connected to the patient and the following rythm is seen on the ECG. It's a wide complex regular tachycardia! Is it a shockable rhythm?",
