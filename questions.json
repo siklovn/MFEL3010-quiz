@@ -298,7 +298,7 @@
             "Only during the Q-T interval"
         ],
         "answer": "Only during the T-Q interval",
-        "image": "images/static/qrs.png"
+        "image": "static/images/qrs.png"
     },
     {
         "question": "It is customary to calculate the study power before starting a clinical study. What is study power in a randomised controlled study?",
