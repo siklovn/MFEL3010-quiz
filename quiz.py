@@ -28,4 +28,4 @@ if __name__ == '__main__':
         port = 5000
     app.run(host='0.0.0.0', port=port)
 
-# Test locally: http://127.0.0.1:5000/
+# Local testing: http://127.0.0.1:5000/
