@@ -1,7 +1,6 @@
 from flask import Flask, render_template, jsonify
 import random
 import json
-import webbrowser
 import os
 
 app = Flask(__name__)
