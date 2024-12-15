@@ -408,7 +408,7 @@
             "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travels through the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue.",
             "The X-ray source and detector is placed in front of the patient. X-ray images are genereated based on the amount of reflected radiatation from the patient."
         ],
-        "answer": "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travls thorugh the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue."
+        "answer": "The X-ray machine positions the patient between an X-ray source and an X-ray detector. X-ray travels through the body and are absorbed in different degrees by different tissues, depending on the radiological density of the tissue."
 
     },
     {
