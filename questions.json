@@ -1520,17 +1520,17 @@
         "answer": "The gradient coils."
     },
     {
-        "question": "A child has been wounded by steel fragments from a cluster bomb. Which of these imaging methods should definitely not be used to locate the fragments in the body for safety reasons?",
+        "question": "MRI is a versatile tool in medical imaging and does not involve the use of ionizing radiation. In which of these cases would you definetly not choose an MRI examination?",
         "options": [
-            "Ultrasound",
-            "X-ray",
-            "MRI",
-            "Nuclear imaging"
+            "Cardiac MRI examination in a patient with cardiomyopathy",
+            "Patient with metallic foreign body",
+            "Knee examintaion after trauma to the knee - downhill skiing",
+            "Patient with suspected cerebral ischemia (blocked arterial head vessel)"
         ],
-        "answer": "MRI"
+        "answer": "Patient with metallic foreign body"
     },
     {
-        "question": "And which method would be best from a diagnostic point of view (for a wounded child with steel fragments?",
+        "question": "Which method would be best from a diagnostic point of view (for a wounded patient with steel fragments?",
         "options": [
             "Ultrasound",
             "X-ray",
