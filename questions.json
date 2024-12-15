@@ -1953,17 +1953,6 @@
         "image": "static/images/doppler-mode.png"
     },
     {
-        "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. What is the mechanism?",
-        "options": [
-            "The atria suddenly starts to beat in an uncoordinated manner",
-            "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
-            "The ventricles suddenly starts to beat in an uncoordinated manner",
-            "Nothing happens electrically, but the mechanic pumping stops abruptly"
-        ],
-        "answer": "The AV-node suddenly stops conducting the impulses from the atria to the ventricles",
-        "image": "static/images/bipolar-precordial-lead.png"
-    },
-    {
         "question": "A patient in the coronary care unit suddenly displays a change in the heart rhythm and pulse as shown in the figure. And how would you treat it?",
         "options": [
             "Electrical shock",
