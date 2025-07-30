@@ -32,10 +32,11 @@
         .launch-container,
         .quiz-container,
         #result {
-            background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+            background: rgba(255, 255, 255, 0.9);
             border-radius: 12px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
+            z-index: 1;
         }
 
         .progress-bar-container {
@@ -88,6 +89,8 @@
 
         .container {
             overflow-y: auto;
+            position: relative;
+            z-index: 0;
         }
     </style>
 </head>
