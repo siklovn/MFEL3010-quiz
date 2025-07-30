@@ -1,6 +1,3 @@
-# Local running: Open http://127.0.0.1:5005/ in browser
-# Use number keys to select alternative, hit space to submit answer
-
 from flask import Flask, render_template, jsonify
 import random
 import json
@@ -26,5 +23,8 @@ if __name__ == '__main__':
         port = int(os.environ.get('PORT', 5005))
     except ValueError:
         port = 5005
+
+    print(f"\nQuiz app running! Open http://127.0.0.1:{port} in your browser.")
+    print("Use number keys (1–4) to select an answer, and spacebar to go to the next question.\n")
 
     app.run(host='0.0.0.0', port=port, debug=False)
